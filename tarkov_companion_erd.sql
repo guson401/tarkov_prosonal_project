@@ -236,7 +236,6 @@ CREATE TABLE profile_item_preferences (
     profile_id INTEGER NOT NULL,
     item_id TEXT NOT NULL,
     importance TEXT NOT NULL,
-    memo TEXT,
     updated_at TEXT NOT NULL,
     PRIMARY KEY (profile_id, item_id),
     FOREIGN KEY (profile_id) REFERENCES profiles(profile_id) ON DELETE CASCADE,

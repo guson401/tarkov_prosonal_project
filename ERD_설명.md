@@ -46,7 +46,7 @@
 - `profile_hideout`: 프로필별 은신처 현재 레벨과 목표 레벨을 저장한다.
 - `profile_traders`: 프로필별 상인 평판과 충성도 레벨을 저장한다.
 - `profile_inventory`: 키를 포함한 프로필별 보유 아이템 수량과 그중 FIR 수량을 한 곳에 저장한다.
-- `profile_item_preferences`: 사용자가 지정한 아이템 중요도와 메모를 저장한다.
+- `profile_item_preferences`: 사용자가 지정한 아이템 중요도를 저장한다.
 
 프로필 삭제 시 관련 개인 데이터는 외래 키의 `ON DELETE CASCADE` 설정에 따라 함께 삭제된다.
 
@@ -71,10 +71,10 @@
 ## 주요 관계
 
 ```text
-items ──< quest_requirements >── quests
+quests ──< quest_objectives ──< quest_requirements
 quests ──< quest_prerequisites >── quests
-quests ──< quest_objectives >── maps
 quest_objectives ──< quest_objective_markers >── maps_markers
+maps ──< quest_objective_markers
 maps ──< quest_objective_markers
 maps ──< items (key_map_id)
 items ──< hideout_requirements >── hideout_stations
@@ -88,6 +88,18 @@ maps ──< maps_markers
 items ──< cultist_recipe_items >── cultist_recipes
 cultist_recipes ──< profile_cultist_recipe_progress >── profiles
 ```
+
+### 퀘스트 목표 예시
+
+다음은 ERD 구조 설명용 예시이며 실제 게임 퀘스트 데이터가 아니다.
+
+| 퀘스트 목표 | 요구사항 | 맵 연결 | 프로필 진행 예 |
+|---|---|---|---|
+| 적 처치 | 적 10명 | 맵 A와 맵 B의 처치 구역 마커 | 두 맵 합계 6명 처치 시 목표 진행량 6 |
+| 아이템 제출 | 아이템 X 3개, FIR 여부 지정 | 위치 목표가 아니므로 마커 없음 | 1개 제출 시 진행량 1 |
+| 장소 방문 | 특정 지점 1회 방문 | 맵 C의 방문 마커 | 방문 확인 후 진행량 1, 목표 완료 |
+
+각 행은 하나의 `quest_objectives` 목표에 해당한다. 적 처치 목표는 여러 맵의 마커에 연결되지만 진행량은 목표 하나의 정수 값으로 합산한다. `quest_requirements`는 아이템 제출 목표에 아이템과 수량을 연결한다. 장소 방문은 `quest_objective_markers`로 지점에 연결한다.
 
 ## 필요 아이템 계산
 
