@@ -1,0 +1,43 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Tarkov Companion",
+  "version": "0.1.0",
+  "identifier": "com.tarkovcompanion.desktop",
+  "build": {
+    "beforeDevCommand": "npm run dev --workspace @tarkov/desktop",
+    "devUrl": "http://127.0.0.1:1420",
+    "beforeBuildCommand": "npm run build --workspace @tarkov/desktop",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "Tarkov Companion",
+        "width": 1280,
+        "height": 800,
+        "minWidth": 960,
+        "minHeight": 640,
+        "center": true
+      }
+    ],
+    "security": {
+      "csp": null,
+      "capabilities": ["default"]
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": "all",
+    "resources": [
+      "../../resources/maps/**",
+      "../../resources/icons/**",
+      "../../resources/images/**"
+    ],
+    "shortDescription": "Local Escape from Tarkov companion"
+  },
+  "plugins": {
+    "sql": {
+      "preload": ["sqlite:tarkov_companion.db"]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+target/
+**/target/
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.*
+!.env.example
+*.log
+apps/desktop/src-tauri/gen/
