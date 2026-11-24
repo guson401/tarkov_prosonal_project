@@ -1,0 +1,85 @@
+.maps-page .page-heading { align-items: center; }
+.map-source { display: inline-flex; align-items: center; gap: 7px; border: 1px solid #343a2b; padding: 7px 9px; color: #9ba687; font: 8px var(--mono); letter-spacing: .08em; }
+.map-source i { width: 6px; height: 6px; border-radius: 50%; background: #889260; }
+.map-source.live i { background: #a9c26e; box-shadow: 0 0 8px #a9c26e80; }
+.map-toolbar { min-height: 68px; display: flex; align-items: center; gap: 18px; padding: 12px 16px; margin-bottom: 13px; background: #191c18; border: 1px solid #2b2e28; }
+.map-select-label { display: flex; align-items: center; gap: 10px; min-width: 145px; color: var(--accent); }
+.map-select-label div { display: grid; gap: 4px; }
+.map-select-label .eyebrow { color: #747c63; font-size: 7px; }
+.map-select-label strong { color: #d7dbce; font-size: 10px; font-weight: 500; }
+.map-toolbar select { min-width: 210px; height: 36px; padding: 0 34px 0 11px; border: 1px solid #3b4034; border-radius: 2px; outline: 0; appearance: none; color: #e1e5d7; background: #121410; font-size: 10px; cursor: pointer; }
+.map-toolbar select:focus { border-color: #85935d; }
+.map-toolbar select:disabled { opacity: .55; cursor: wait; }
+.map-raid-length { display: inline-flex; align-items: center; gap: 6px; margin-left: auto; color: #929985; font: 9px var(--mono); }
+.map-raid-length svg { color: #9daa70; }
+.map-notice { padding: 9px 12px; margin: 0 0 12px; border: 1px solid #4b4630; color: #c9bd8b; background: #211f18; font-size: 9px; }
+.map-loading { min-height: 360px; display: grid; place-items: center; border: 1px solid #2b2e28; background: #191c18; color: #858b7f; font-size: 11px; }
+.map-layout { display: grid; grid-template-columns: minmax(0, 1fr) 270px; gap: 13px; align-items: stretch; }
+.map-image-panel { min-width: 0; min-height: 500px; display: grid; grid-template-rows: 37px auto 24px; align-content: start; padding: 0 13px 8px; overflow: hidden; border: 1px solid #34382f; background: #d9d9cb; }
+.map-image-heading { display: flex; align-items: center; justify-content: space-between; color: #555b4c; font: 8px var(--mono); letter-spacing: .08em; }
+.map-image-heading b { color: #343a2e; font: 600 10px 'DM Sans','Noto Sans KR',sans-serif; letter-spacing: 0; }
+.map-canvas { position: relative; width: 100%; min-width: 0; overflow: hidden; background: #d9d9cb; }
+.map-canvas > img { position: absolute; inset: 0; display: block; width: 100%; height: 100%; object-fit: fill; }
+.map-marker-layer { position: absolute; inset: 0; pointer-events: none; }
+.map-marker { position: absolute; z-index: 1; display: grid; place-items: center; width: 23px; height: 23px; padding: 0; transform: translate(-50%, -50%); border: 1px solid #f0f1e7; border-radius: 50%; color: #fff; background: #596344; box-shadow: 0 1px 5px #1119; font: 700 8px var(--mono); cursor: pointer; pointer-events: auto; transition: transform .12s, filter .12s; }
+.map-marker:hover,.map-marker.selected { z-index: 3; transform: translate(-50%, -50%) scale(1.28); filter: brightness(1.2); }
+.map-marker.marker-extracts,.marker-key.marker-extracts { background-color: #577b43; }
+.map-marker.marker-spawns,.marker-key.marker-spawns { background-color: #387e87; }
+.map-marker.marker-pmcExtracts,.marker-key.marker-pmcExtracts { background-color: #577b43; }
+.map-marker.marker-scavExtracts,.marker-key.marker-scavExtracts { background-color: #788d4f; }
+.map-marker.marker-coopExtracts,.marker-key.marker-coopExtracts { background-color: #687d49; }
+.map-marker.marker-pmcSpawns,.marker-key.marker-pmcSpawns { background-color: #387e87; }
+.map-marker.marker-scavSpawns,.marker-key.marker-scavSpawns { background-color: #536d87; }
+.map-marker.marker-sniperScavs,.marker-key.marker-sniperScavs { background-color: #a44c3c; }
+.map-marker.marker-bosses,.marker-key.marker-bosses { background-color: #9a5d48; }
+.map-marker.marker-lootContainers,.marker-key.marker-lootContainers { background-color: #a87c37; }
+.map-marker[class*="marker-lootContainer:"],.marker-key[class*="marker-lootContainer:"] { background-color: #a87c37; }
+.map-marker.marker-lootLoose,.marker-key.marker-lootLoose { background-color: #6c6d9d; }
+.map-marker.marker-hazards,.marker-key.marker-hazards { background-color: #bd573e; }
+.map-marker.marker-switches,.marker-key.marker-switches { background-color: #87659a; }
+.map-marker.marker-transits,.marker-key.marker-transits { background-color: #3d8499; }
+.map-marker.marker-stationaryWeapons,.marker-key.marker-stationaryWeapons { background-color: #5e7180; }
+.map-marker.marker-btrStops,.marker-key.marker-btrStops { background-color: #555a4b; }
+.map-image-credit { align-self: end; color: #656a5d; font: 7px var(--mono); text-align: right; }
+.map-details { padding: 16px; }
+.map-details .panel-heading { margin-bottom: 16px; }
+.map-details .panel-heading h3 { font-size: 15px; }
+.map-stat { display: flex; justify-content: space-between; padding: 10px 0; border-top: 1px solid #292c26; color: #7f8578; font-size: 9px; }
+.map-stat b { color: #cdd2c2; font: 10px var(--mono); }
+.map-list-block { padding: 14px 0 2px; border-top: 1px solid #292c26; }
+.map-list-block > .eyebrow { color: #929d70; font-size: 8px; }
+.map-list-block ul { display: grid; gap: 7px; margin: 11px 0 0; padding: 0; list-style: none; }
+.map-list-block li { position: relative; padding-left: 11px; color: #a8ad9f; font-size: 9px; line-height: 1.4; }
+.map-list-block li::before { position: absolute; left: 0; color: #9eae6c; content: '•'; }
+.map-list-block p { margin: 9px 0 2px; color: #70766a; font-size: 9px; }
+.map-marker-controls { margin-top: 16px; border-top: 1px solid #292c26; }
+.marker-controls-heading { display: flex; align-items: center; justify-content: space-between; padding: 13px 0 9px; }
+.marker-controls-heading > div { display: grid; gap: 4px; }
+.marker-controls-heading .eyebrow { color: #929d70; font-size: 8px; }
+.marker-controls-heading strong { color: #d1d6c7; font-size: 11px; font-weight: 500; }
+.marker-controls-heading > span { color: #858b7f; font: 8px var(--mono); }
+.marker-global-actions { display: flex; gap: 6px; margin-bottom: 9px; }
+.marker-global-actions button { display: inline-flex; align-items: center; gap: 5px; padding: 6px 7px; border: 1px solid #33372e; color: #9ca38e; background: #141612; font-size: 8px; cursor: pointer; }
+.marker-global-actions button:hover { color: #e0e5d5; border-color: #596347; }
+.marker-search { display: flex; align-items: center; gap: 7px; height: 31px; padding: 0 8px; border: 1px solid #33372e; color: #737b67; background: #131512; }
+.marker-search input { width: 100%; border: 0; outline: 0; color: #d5d9cd; background: transparent; font-size: 9px; }
+.marker-search input::placeholder { color: #686e63; }
+.marker-category-list { max-height: 390px; margin-top: 7px; overflow-y: auto; scrollbar-color: #42483a #191c18; scrollbar-width: thin; }
+.marker-category { border-top: 1px solid #292c26; }
+.marker-category-heading { min-height: 35px; display: flex; align-items: center; justify-content: space-between; gap: 5px; }
+.marker-category-heading > label { min-width: 0; flex: 1; display: flex; align-items: center; gap: 7px; color: #bbc0b3; font-size: 9px; cursor: pointer; }
+.marker-category-heading input,.marker-item input { width: 12px; height: 12px; margin: 0; accent-color: #aebd77; cursor: pointer; }
+.marker-category-heading small { margin-left: auto; color: #777e70; font: 8px var(--mono); }
+.marker-category-heading > button { width: 24px; height: 24px; border: 0; color: #8b927f; background: transparent; cursor: pointer; }
+.marker-key { width: 17px; height: 17px; flex: 0 0 17px; display: inline-grid; place-items: center; border: 1px solid #c4c8b8; border-radius: 50%; color: #fff; font: 700 7px var(--mono); font-style: normal; }
+.marker-category.category-hidden .marker-category-heading > label { color: #73796e; }
+.marker-item-list { display: grid; gap: 1px; max-height: 170px; overflow-y: auto; padding: 0 0 7px 20px; }
+.marker-item { min-height: 25px; display: flex; align-items: center; gap: 7px; color: #aeb3a6; font-size: 8px; cursor: pointer; }
+.marker-item span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.marker-item.disabled { color: #666c61; }
+.marker-empty { margin: 6px 0; color: #73796e; font-size: 8px; }
+.selected-marker-info { display: flex; align-items: center; gap: 7px; margin-top: 8px; padding: 8px; border: 1px solid #3b4033; color: #c8cebd; background: #151713; font-size: 8px; }
+.selected-marker-info > span { flex: 1; }
+.selected-marker-info > button { border: 0; color: #929888; background: transparent; font-size: 16px; cursor: pointer; }
+@media (max-width: 900px) { .map-layout { grid-template-columns: minmax(0, 1fr) 230px; } .map-image-panel { min-height: 430px; } .marker-category-list { max-height: 300px; } }
+@media (max-width: 680px) { .map-toolbar { flex-wrap: wrap; gap: 10px; } .map-select-label { min-width: 100%; } .map-toolbar select { flex: 1; min-width: 0; } .map-raid-length { margin-left: 0; } .map-layout { grid-template-columns: 1fr; } .map-image-panel { min-height: 340px; } .marker-category-list { max-height: 300px; } }

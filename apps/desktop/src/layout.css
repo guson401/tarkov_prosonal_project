@@ -1,0 +1,23 @@
+.sidebar {
+  position: fixed;
+  inset: 0 auto 0 0;
+  height: 100vh;
+  min-height: 0;
+  overflow-y: auto;
+}
+
+.main-area {
+  margin-left: 238px;
+}
+
+@media (max-width: 1000px) {
+  .main-area {
+    margin-left: 205px;
+  }
+}
+
+@media (max-width: 760px) {
+  .main-area {
+    margin-left: 65px;
+  }
+}

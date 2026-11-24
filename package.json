@@ -10,6 +10,7 @@
     "dev": "npm run tauri:dev --workspace @tarkov/desktop",
     "build": "npm run build --workspace @tarkov/desktop",
     "tauri:dev": "npm run tauri:dev --workspace @tarkov/desktop",
-    "tauri:build": "npm run tauri:build --workspace @tarkov/desktop"
+    "tauri:build": "npm run tauri:build --workspace @tarkov/desktop",
+    "assets:download": "node scripts/download-tarkov-assets.mjs"
   }
 }

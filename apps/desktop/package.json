@@ -5,10 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 127.0.0.1 --port 1420 --strictPort",
-    "build": "tsc -b && vite build",
+    "build": "node ../../scripts/prepare-map-assets.mjs && tsc -b && vite build",
     "preview": "vite preview --host 127.0.0.1",
     "tauri:dev": "tauri dev",
-    "tauri:build": "tauri build"
+    "tauri:build": "tauri build && node ../../scripts/prepare-portable-app.mjs"
   },
   "dependencies": {
     "@tauri-apps/api": "^2.0.0",

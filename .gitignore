@@ -12,3 +12,4 @@ target/
 !.env.example
 *.log
 apps/desktop/src-tauri/gen/
+apps/desktop/public/maps/
