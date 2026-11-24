@@ -1,11 +1,19 @@
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
 pub fn run() {
-    let migrations = vec![tauri_plugin_sql::Migration {
-        version: 1,
-        description: "initial_schema",
-        sql: include_str!("../../../../tarkov_companion_erd.sql"),
-        kind: tauri_plugin_sql::MigrationKind::Up,
-    }];
+    let migrations = vec![
+        tauri_plugin_sql::Migration {
+            version: 1,
+            description: "initial_schema",
+            sql: include_str!("migrations/001_initial_schema.sql"),
+            kind: tauri_plugin_sql::MigrationKind::Up,
+        },
+        tauri_plugin_sql::Migration {
+            version: 2,
+            description: "profile_skills_and_weapon_mastery",
+            sql: include_str!("migrations/002_profile_skills.sql"),
+            kind: tauri_plugin_sql::MigrationKind::Up,
+        },
+    ];
 
     tauri::Builder::default()
         .plugin(

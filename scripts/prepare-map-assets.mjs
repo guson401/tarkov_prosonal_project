@@ -5,6 +5,8 @@ import { fileURLToPath } from "node:url";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const source = path.join(root, "resources/maps");
 const output = path.join(root, "apps/desktop/public/maps");
+const questsSource = path.join(root, "resources/quests/quests.en.json");
+const questsOutput = path.join(root, "apps/desktop/public/quests");
 
 const [mapPayload, catalog] = await Promise.all([
   readFile(path.join(source, "regular.json"), "utf8").then(JSON.parse),
@@ -47,8 +49,10 @@ const catalogWithViewBoxes = await Promise.all(catalog.map(async (entry) => ({
 })));
 
 await mkdir(path.join(output, "svg"), { recursive: true });
+await mkdir(questsOutput, { recursive: true });
 await Promise.all([
   writeFile(path.join(output, "regular.json"), `${JSON.stringify({ data: { maps: compactMaps } })}\n`, "utf8"),
   writeFile(path.join(output, "catalog.json"), `${JSON.stringify(catalogWithViewBoxes)}\n`, "utf8"),
   cp(path.join(source, "svg"), path.join(output, "svg"), { recursive: true, force: true }),
+  cp(questsSource, path.join(questsOutput, "quests.en.json")),
 ]);

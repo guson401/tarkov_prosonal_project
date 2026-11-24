@@ -1,0 +1,4 @@
+.quest-tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:10px}.quest-tags span{max-width:100%;padding:4px 6px;border:1px solid #343a2b;background:#20241c;color:#9ca584;font-size:8px}
+.quest-detail-actions{display:flex;flex:0 0 auto;gap:7px}.quest-view-toggle{height:30px;padding:0 10px;border:1px solid #414735;background:#1b1e19;color:#bdc69f;font-size:9px;cursor:pointer}.quest-view-toggle:hover{background:#292f21;color:#dce6bd}.quest-original{margin:0;padding:17px 0;color:#c0c6b8;font:10px/1.8 'DM Sans','Noto Sans KR',sans-serif;white-space:pre-wrap;overflow-wrap:anywhere}
+.quest-sections h3 small{margin-left:8px;font:7px var(--mono);letter-spacing:0;text-transform:none}.quest-translation-mark{color:#aabd78}.quest-source-mark{color:#5f6759}
+@media(max-width:480px){.quest-detail-top{flex-direction:column}.quest-detail-actions{align-self:flex-end}}

@@ -13,3 +13,4 @@ target/
 *.log
 apps/desktop/src-tauri/gen/
 apps/desktop/public/maps/
+apps/desktop/public/quests/
