@@ -156,6 +156,10 @@ const worker = async () => {
 await Promise.all(Array.from({ length: 2 }, worker));
 await saveQueue;
 
+if (translated.size !== jobs.length) {
+  throw new Error(`Translation incomplete: ${translated.size}/${jobs.length} chunks saved. The source file was not replaced; rerun to resume from the cache.`);
+}
+
 for (const quest of data.quests) {
   quest.sectionsKo = quest.sectionsKo.map((section) => ({
     title: section.title,
@@ -163,6 +167,8 @@ for (const quest of data.quests) {
     text: section.gameText ? section.text : section.segmentIds.map((key) => translated.get(key) || "").filter(Boolean).join("\n\n"),
     translationSource: section.gameText ? "Tarkov.dev game localization" : "English wiki source translation",
   }));
+  const objectives = quest.sectionsKo.find((section) => section.title === "Objectives");
+  if (objectives) quest.objectivesKo = objectives.text.split("\n").map((line) => line.trim()).filter(Boolean);
 }
 data.contentTranslation = "English wiki text translated into Korean using Google Cloud Translation and a Tarkov terminology glossary. Original English content is retained.";
 data.contentTranslationUrl = "https://cloud.google.com/translate/pricing";

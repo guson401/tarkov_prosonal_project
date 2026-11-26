@@ -1,0 +1,28 @@
+{
+  "source": "The Official Escape from Tarkov Wiki (English, Fandom)",
+  "retrievedAt": "2026-11-26",
+  "levels": {
+    "Prapor": { "currency": "₽", "levels": [{ "level": 15, "rep": 0.2, "sales": 1120000 }, { "level": 26, "rep": 0.35, "sales": 2700000 }, { "level": 36, "rep": 0.5, "sales": 3400000 }] },
+    "Therapist": { "currency": "₽", "levels": [{ "level": 14, "rep": 0.15, "sales": 600000 }, { "level": 23, "rep": 0.3, "sales": 1000000 }, { "level": 37, "rep": 0.6, "sales": 1600000 }] },
+    "Skier": { "currency": "₽", "levels": [{ "level": 15, "rep": 0.2, "sales": 1200000 }, { "level": 28, "rep": 0.4, "sales": 2400000 }, { "level": 38, "rep": 0.75, "sales": 3900000 }] },
+    "Peacekeeper": { "currency": "$", "levels": [{ "level": 14, "rep": 0, "sales": 16000 }, { "level": 23, "rep": 0.3, "sales": 37000 }, { "level": 37, "rep": 0.6, "sales": 55000 }] },
+    "Mechanic": { "currency": "₽", "levels": [{ "level": 20, "rep": 0.15, "sales": 1120000 }, { "level": 30, "rep": 0.3, "sales": 2400000 }, { "level": 40, "rep": 0.6, "sales": 3700000 }] },
+    "Ragman": { "currency": "₽", "levels": [{ "level": 17, "rep": 0, "sales": 1120000 }, { "level": 32, "rep": 0.3, "sales": 2400000 }, { "level": 42, "rep": 0.6, "sales": 3700000 }] },
+    "Jaeger": { "currency": "₽", "levels": [{ "level": 15, "rep": 0.2, "sales": 840000 }, { "level": 22, "rep": 0.35, "sales": 1680000 }, { "level": 33, "rep": 0.5, "sales": 2580000 }] },
+    "Ref": { "currency": "₽", "levels": [{ "level": 15, "rep": 0.25, "sales": 0 }, { "level": 25, "rep": 0.5, "sales": 0 }, { "level": 35, "rep": 1.2, "sales": 0 }] },
+    "Fence": { "currency": "₽", "levels": [{ "level": 1, "rep": 6, "sales": 0 }], "specialLevel": 4 }
+  },
+  "pages": {
+    "Prapor": "https://escapefromtarkov.fandom.com/wiki/Prapor",
+    "Therapist": "https://escapefromtarkov.fandom.com/wiki/Therapist",
+    "Skier": "https://escapefromtarkov.fandom.com/wiki/Skier",
+    "Peacekeeper": "https://escapefromtarkov.fandom.com/wiki/Peacekeeper",
+    "Mechanic": "https://escapefromtarkov.fandom.com/wiki/Mechanic",
+    "Ragman": "https://escapefromtarkov.fandom.com/wiki/Ragman",
+    "Jaeger": "https://escapefromtarkov.fandom.com/wiki/Jaeger",
+    "Ref": "https://escapefromtarkov.fandom.com/wiki/Ref",
+    "Fence": "https://escapefromtarkov.fandom.com/wiki/Fence",
+    "BTR Driver": "https://escapefromtarkov.fandom.com/wiki/BTR_Driver",
+    "Lightkeeper": "https://escapefromtarkov.fandom.com/wiki/Lightkeeper"
+  }
+}

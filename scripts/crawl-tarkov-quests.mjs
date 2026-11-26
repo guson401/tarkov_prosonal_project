@@ -4,6 +4,7 @@ import { dirname, resolve } from "node:path";
 const api = "https://escapefromtarkov.fandom.com/api.php";
 const headers = { "User-Agent": "TarkovCompanion/0.1 (quest reference; local desktop app)" };
 const sleep = (ms) => new Promise((resolvePromise) => setTimeout(resolvePromise, ms));
+const conditionsOnly = process.argv.includes("--conditions-only");
 
 async function get(params) {
   const url = new URL(api);
@@ -115,8 +116,14 @@ do {
   continuation = result.continue;
 } while (continuation);
 
+if (conditionsOnly) {
+  const result = await get({ action: "query", titles: "Immunity (quest)", format: "json" });
+  const page = Object.values(result.query?.pages ?? {})[0];
+  if (page && !pages.some((entry) => entry.pageid === page.pageid)) pages.push({ pageid: page.pageid, title: page.title });
+}
+
 const records = [];
-const gameLocalizations = await getGameLocalizations();
+const gameLocalizations = conditionsOnly ? new Map() : await getGameLocalizations();
 for (let offset = 0; offset < pages.length; offset += 20) {
   const batch = pages.slice(offset, offset + 20);
   const result = await get({
@@ -130,8 +137,21 @@ for (let offset = 0; offset < pages.length; offset += 20) {
   for (const page of Object.values(result.query?.pages ?? {})) {
     const wikitext = page.revisions?.[0]?.slots?.main?.["*"] ?? "";
     if (!wikitext) continue;
-    const gameLocalization = gameLocalizations.get(normalizeQuestTitle(page.title)) ?? {};
     const content = cleanWikiText(wikitext, page.title);
+    if (conditionsOnly) {
+      records.push({
+        id: page.pageid,
+        title: page.title === "Immunity (quest)" ? "Immunity" : page.title,
+        wikiTitle: page.title,
+        url: `https://escapefromtarkov.fandom.com/wiki/${encodeURIComponent(page.title.replaceAll(" ", "_"))}`,
+        trader: infoboxValue(wikitext, "given by"),
+        prerequisites: infoboxValue(wikitext, "previous"),
+        requirements: content.match(/^== Requirements ==\n([\s\S]*?)(?=\n== |$)/m)?.[1] ?? "",
+        ...(page.title === "Immunity (quest)" ? { content } : {}),
+      });
+      continue;
+    }
+    const gameLocalization = gameLocalizations.get(normalizeQuestTitle(page.title)) ?? {};
     const wikiObjectives = content.match(/^== Objectives ==\n([\s\S]*?)(?=\n== |$)/m)?.[1]?.split("\n").map((line) => line.trim()).filter(Boolean) ?? [];
     const hasFullGameTranslation = gameLocalization.objectivesKo?.length > 0
       && gameLocalization.objectivesKo.every((line, index) => line && line !== gameLocalization.objectivesEn[index]);
@@ -153,6 +173,19 @@ for (let offset = 0; offset < pages.length; offset += 20) {
     });
   }
   if (offset + 20 < pages.length) await sleep(350);
+}
+
+if (conditionsOnly) {
+  const outputPath = resolve("resources/quests/quest-conditions.source.json");
+  await mkdir(dirname(outputPath), { recursive: true });
+  await writeFile(outputPath, `${JSON.stringify({
+    source: "The Official Escape from Tarkov Wiki (English, Fandom)",
+    sourceUrl: "https://escapefromtarkov.fandom.com/wiki/Category:Quests",
+    fetchedAt: new Date().toISOString(),
+    quests: records.filter((quest) => quest.title !== "Quests" && !quest.title.startsWith("Category:")).sort((a, b) => a.title.localeCompare(b.title)),
+  }, null, 2)}\n`, "utf8");
+  console.log(`Saved ${records.length} wiki condition records to ${outputPath}`);
+  process.exit(0);
 }
 
 const output = {

@@ -63,16 +63,18 @@ const failures = [];
 
 async function main() {
   const mode = process.argv.includes("--pve") ? "pve" : "regular";
-  console.log(`Fetching ${mode} map and item data from tarkov.dev...`);
-  const [mapResponse, itemsResponse, mapCatalog] = await Promise.all([
+  console.log(`Fetching ${mode} map, item, and trader data from tarkov.dev...`);
+  const [mapResponse, itemsResponse, traderResponse, mapCatalog] = await Promise.all([
     getJson(`${api}/${mode}/maps`),
     getJson(`${api}/${mode}/items`),
+    getJson(`${api}/${mode}/traders`),
     getJson(mapCatalogUrl),
   ]);
 
   const maps = mapResponse.data?.maps ?? mapResponse.data;
   const items = itemsResponse.data?.items ?? itemsResponse.data;
-  if (!maps || !items) throw new Error("Unexpected tarkov.dev API response shape.");
+  const traders = traderResponse.data?.traders ?? traderResponse.data;
+  if (!maps || !items || !traders) throw new Error("Unexpected tarkov.dev API response shape.");
 
   await saveJson(`maps/${mode}.json`, maps);
   await saveJson("icons/items.json", items);
@@ -118,8 +120,18 @@ async function main() {
     () => iconsSaved++,
   );
 
+  let traderPortraitsSaved = 0;
+  await downloadAll(
+    Object.values(traders)
+      .filter((trader) => trader.normalizedName && trader.imageLink)
+      .map((trader) => ({
+        run: async () => download(trader.imageLink, `images/traders/${safeName(trader.normalizedName)}.webp`),
+      })),
+    () => traderPortraitsSaved++,
+  );
+
   await saveJson("maps/catalog.json", mapCatalog);
-  console.log(`Saved map data, ${mapsSaved} map SVGs, and ${iconsSaved} item images.`);
+  console.log(`Saved map data, ${mapsSaved} map SVGs, ${iconsSaved} item images, and ${traderPortraitsSaved} trader portraits.`);
   if (failures.length) {
     console.warn(`${failures.length} asset downloads failed; first failures:`);
     for (const failure of failures.slice(0, 10)) console.warn(`- ${failure}`);

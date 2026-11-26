@@ -1,0 +1,5039 @@
+{
+  "source": "The Official Escape from Tarkov Wiki (English, Fandom)",
+  "sourceUrl": "https://escapefromtarkov.fandom.com/wiki/Category:Quests",
+  "fetchedAt": "2026-11-26T14:10:23.190Z",
+  "quests": [
+    {
+      "id": 46528,
+      "title": "...for the Good of the Chosen",
+      "wikiTitle": "...for the Good of the Chosen",
+      "url": "https://escapefromtarkov.fandom.com/wiki/...for_the_Good_of_the_Chosen",
+      "trader": "Lightkeeper",
+      "prerequisites": "In the Name of Humanity...",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 10263,
+      "title": "A Big Loss",
+      "wikiTitle": "A Big Loss",
+      "url": "https://escapefromtarkov.fandom.com/wiki/A_Big_Loss",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 44498,
+      "title": "A Bitter Victory",
+      "wikiTitle": "A Bitter Victory",
+      "url": "https://escapefromtarkov.fandom.com/wiki/A_Bitter_Victory",
+      "trader": "BTR Driver",
+      "prerequisites": "Saving Private Roman",
+      "requirements": ""
+    },
+    {
+      "id": 19166,
+      "title": "A Difficult Choice",
+      "wikiTitle": "A Difficult Choice",
+      "url": "https://escapefromtarkov.fandom.com/wiki/A_Difficult_Choice",
+      "trader": "Therapist",
+      "prerequisites": "Accept The Huntsman Path - Sadist",
+      "requirements": ""
+    },
+    {
+      "id": 46481,
+      "title": "A Familiar Face...",
+      "wikiTitle": "A Familiar Face...",
+      "url": "https://escapefromtarkov.fandom.com/wiki/A_Familiar_Face...",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21248,
+      "title": "A Fuel Matter",
+      "wikiTitle": "A Fuel Matter",
+      "url": "https://escapefromtarkov.fandom.com/wiki/A_Fuel_Matter",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34618,
+      "title": "A Healthy Alternative",
+      "wikiTitle": "A Healthy Alternative",
+      "url": "https://escapefromtarkov.fandom.com/wiki/A_Healthy_Alternative",
+      "trader": "Therapist",
+      "prerequisites": "Accept One Less Loose End",
+      "requirements": ""
+    },
+    {
+      "id": 37667,
+      "title": "A Helping Hand",
+      "wikiTitle": "A Helping Hand",
+      "url": "https://escapefromtarkov.fandom.com/wiki/A_Helping_Hand",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 38949,
+      "title": "A Life Lesson",
+      "wikiTitle": "A Life Lesson",
+      "url": "https://escapefromtarkov.fandom.com/wiki/A_Life_Lesson",
+      "trader": "Skier",
+      "prerequisites": "Safety Guarantee",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 44650,
+      "title": "A Wedge Between Us",
+      "wikiTitle": "A Wedge Between Us",
+      "url": "https://escapefromtarkov.fandom.com/wiki/A_Wedge_Between_Us",
+      "trader": "Jaeger",
+      "prerequisites": "See requirements",
+      "requirements": "Hand over the hard drives from compartment C-1 on Icebreaker to Mechanic in the Boreas story chapter."
+    },
+    {
+      "id": 36643,
+      "title": "Abandoned Cargo",
+      "wikiTitle": "Abandoned Cargo",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Abandoned_Cargo",
+      "trader": "Therapist",
+      "prerequisites": "First in LineorOperation AquariusorSupply Plans",
+      "requirements": ""
+    },
+    {
+      "id": 14927,
+      "title": "Acquaintance",
+      "wikiTitle": "Acquaintance",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Acquaintance",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 43659,
+      "title": "Advertising Business - Part 1",
+      "wikiTitle": "Advertising Business - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Advertising_Business_-_Part_1",
+      "trader": "Ref",
+      "prerequisites": "All for the Show - Death from Above",
+      "requirements": ""
+    },
+    {
+      "id": 43660,
+      "title": "Advertising Business - Part 2",
+      "wikiTitle": "Advertising Business - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Advertising_Business_-_Part_2",
+      "trader": "Ref",
+      "prerequisites": "All for the Show - Big Tour",
+      "requirements": ""
+    },
+    {
+      "id": 43661,
+      "title": "Advertising Business - Part 3",
+      "wikiTitle": "Advertising Business - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Advertising_Business_-_Part_3",
+      "trader": "Ref",
+      "prerequisites": "All for the Show - Soldier",
+      "requirements": ""
+    },
+    {
+      "id": 43662,
+      "title": "Advertising Business - Part 4",
+      "wikiTitle": "Advertising Business - Part 4",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Advertising_Business_-_Part_4",
+      "trader": "Ref",
+      "prerequisites": "Advertising Business - Part 3",
+      "requirements": ""
+    },
+    {
+      "id": 43663,
+      "title": "Advertising Business - Part 5",
+      "wikiTitle": "Advertising Business - Part 5",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Advertising_Business_-_Part_5",
+      "trader": "Ref",
+      "prerequisites": "Advertising Business - Part 4",
+      "requirements": ""
+    },
+    {
+      "id": 43664,
+      "title": "Advertising Business - Part 6",
+      "wikiTitle": "Advertising Business - Part 6",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Advertising_Business_-_Part_6",
+      "trader": "Ref",
+      "prerequisites": "Advertising Business - Part 5",
+      "requirements": ""
+    },
+    {
+      "id": 31102,
+      "title": "Afterparty",
+      "wikiTitle": "Afterparty",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Afterparty",
+      "trader": "Prapor",
+      "prerequisites": "Debut",
+      "requirements": "Must accept Prapor's quest Debut to obtain this quest."
+    },
+    {
+      "id": 34081,
+      "title": "Against the Conscience - Part 1",
+      "wikiTitle": "Against the Conscience - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Against_the_Conscience_-_Part_1",
+      "trader": "Fence",
+      "prerequisites": "Hold the LeadCreate a Distraction - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 34097,
+      "title": "Against the Conscience - Part 2",
+      "wikiTitle": "Against the Conscience - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Against_the_Conscience_-_Part_2",
+      "trader": "Ref",
+      "prerequisites": "Against the Conscience - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 7014,
+      "title": "Aid Stations",
+      "wikiTitle": "Aid Stations",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Aid_Stations",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34261,
+      "title": "Airmail",
+      "wikiTitle": "Airmail",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Airmail",
+      "trader": "Mechanic",
+      "prerequisites": "Quality Standard",
+      "requirements": "This quest is only available to buyers of the \"Edge of Darkness\" edition of the game."
+    },
+    {
+      "id": 46581,
+      "title": "Akimbo",
+      "wikiTitle": "Akimbo",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Akimbo",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 43670,
+      "title": "All for the Show - Big Tour",
+      "wikiTitle": "All for the Show - Big Tour",
+      "url": "https://escapefromtarkov.fandom.com/wiki/All_for_the_Show_-_Big_Tour",
+      "trader": "Ref",
+      "prerequisites": "Advertising Business - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 43668,
+      "title": "All for the Show - Death from Above",
+      "wikiTitle": "All for the Show - Death from Above",
+      "url": "https://escapefromtarkov.fandom.com/wiki/All_for_the_Show_-_Death_from_Above",
+      "trader": "Ref",
+      "prerequisites": "All for the Show - Heroism",
+      "requirements": ""
+    },
+    {
+      "id": 43669,
+      "title": "All for the Show - Heroism",
+      "wikiTitle": "All for the Show - Heroism",
+      "url": "https://escapefromtarkov.fandom.com/wiki/All_for_the_Show_-_Heroism",
+      "trader": "Ref",
+      "prerequisites": "Jack of All Trades",
+      "requirements": ""
+    },
+    {
+      "id": 43658,
+      "title": "All for the Show - Major Sponsor",
+      "wikiTitle": "All for the Show - Major Sponsor",
+      "url": "https://escapefromtarkov.fandom.com/wiki/All_for_the_Show_-_Major_Sponsor",
+      "trader": "Ref",
+      "prerequisites": "All for the Show - Supremacy",
+      "requirements": ""
+    },
+    {
+      "id": 43671,
+      "title": "All for the Show - Soldier",
+      "wikiTitle": "All for the Show - Soldier",
+      "url": "https://escapefromtarkov.fandom.com/wiki/All_for_the_Show_-_Soldier",
+      "trader": "Ref",
+      "prerequisites": "Jack of All Trades - Pro",
+      "requirements": ""
+    },
+    {
+      "id": 43672,
+      "title": "All for the Show - Supremacy",
+      "wikiTitle": "All for the Show - Supremacy",
+      "url": "https://escapefromtarkov.fandom.com/wiki/All_for_the_Show_-_Supremacy",
+      "trader": "Ref",
+      "prerequisites": "I Am Speed - Part 3No Limit to Perfection - Part 9",
+      "requirements": ""
+    },
+    {
+      "id": 34799,
+      "title": "All Is Revealed",
+      "wikiTitle": "All Is Revealed",
+      "url": "https://escapefromtarkov.fandom.com/wiki/All_Is_Revealed",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 20434,
+      "title": "All This Filth...",
+      "wikiTitle": "All This Filth...",
+      "url": "https://escapefromtarkov.fandom.com/wiki/All_This_Filth...",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 18895,
+      "title": "Anesthesia",
+      "wikiTitle": "Anesthesia",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Anesthesia",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37730,
+      "title": "Another Shipping Delay",
+      "wikiTitle": "Another Shipping Delay",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Another_Shipping_Delay",
+      "trader": "Ragman",
+      "prerequisites": "Fail Hot WheelsNatural Exchange",
+      "requirements": ""
+    },
+    {
+      "id": 12371,
+      "title": "Antique Enthusiast",
+      "wikiTitle": "Antique Enthusiast",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Antique_Enthusiast",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 43242,
+      "title": "Arena Business",
+      "wikiTitle": "Arena Business",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Arena_Business",
+      "trader": "Ref",
+      "prerequisites": "Balancing - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 37745,
+      "title": "Ask for Directions",
+      "wikiTitle": "Ask for Directions",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Ask_for_Directions",
+      "trader": "BTR Driver",
+      "prerequisites": "Another Shipping Delay",
+      "requirements": ""
+    },
+    {
+      "id": 28073,
+      "title": "Audiophile",
+      "wikiTitle": "Audiophile",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Audiophile",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 27695,
+      "title": "Audit",
+      "wikiTitle": "Audit",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Audit",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21419,
+      "title": "Back Door",
+      "wikiTitle": "Back Door",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Back_Door",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6162,
+      "title": "Background Check",
+      "wikiTitle": "Background Check",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Background_Check",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 9606,
+      "title": "Bad Habit",
+      "wikiTitle": "Bad Habit",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Bad_Habit",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6321,
+      "title": "Bad Rep Evidence",
+      "wikiTitle": "Bad Rep Evidence",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Bad_Rep_Evidence",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34006,
+      "title": "Balancing - Part 1",
+      "wikiTitle": "Balancing - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Balancing_-_Part_1",
+      "trader": "Ref",
+      "prerequisites": "Easy Money - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 34008,
+      "title": "Balancing - Part 2",
+      "wikiTitle": "Balancing - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Balancing_-_Part_2",
+      "trader": "Ref",
+      "prerequisites": "Balancing - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 27946,
+      "title": "Ballet Lover",
+      "wikiTitle": "Ballet Lover",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Ballet_Lover",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37747,
+      "title": "Battery Change",
+      "wikiTitle": "Battery Change",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Battery_Change",
+      "trader": "BTR Driver",
+      "prerequisites": "Stick in the WheelorStabilize Business",
+      "requirements": ""
+    },
+    {
+      "id": 36679,
+      "title": "Belka and Strelka",
+      "wikiTitle": "Belka and Strelka",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Belka_and_Strelka",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 35302,
+      "title": "Beneath The Streets",
+      "wikiTitle": "Beneath The Streets",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Beneath_The_Streets",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 28062,
+      "title": "Best Job in the World",
+      "wikiTitle": "Best Job in the World",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Best_Job_in_the_World",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34105,
+      "title": "Between Two Fires",
+      "wikiTitle": "Between Two Fires",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Between_Two_Fires",
+      "trader": "Fence",
+      "prerequisites": "Against the Conscience - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 30497,
+      "title": "Beyond the Red Meat",
+      "wikiTitle": "Beyond the Red Meat",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Beyond_the_Red_Meat",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6776,
+      "title": "Big Customer",
+      "wikiTitle": "Big Customer",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Big_Customer",
+      "trader": "Prapor",
+      "prerequisites": "Accept Chemical - Part 4",
+      "requirements": ""
+    },
+    {
+      "id": 10259,
+      "title": "Big Sale",
+      "wikiTitle": "Big Sale",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Big_Sale",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 44619,
+      "title": "Biochemistry",
+      "wikiTitle": "Biochemistry",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Biochemistry",
+      "trader": "Therapist",
+      "prerequisites": "War Never Changes",
+      "requirements": ""
+    },
+    {
+      "id": 34801,
+      "title": "Black Swan",
+      "wikiTitle": "Black Swan",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Black_Swan",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6407,
+      "title": "Blood in the Water",
+      "wikiTitle": "Blood in the Water",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Blood_in_the_Water",
+      "trader": "Therapist",
+      "prerequisites": "First in LineorOperation AquariusorSupply Plans",
+      "requirements": ""
+    },
+    {
+      "id": 21765,
+      "title": "Booze",
+      "wikiTitle": "Booze",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Booze",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 45803,
+      "title": "Break the Chain",
+      "wikiTitle": "Break the Chain",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Break_the_Chain",
+      "trader": "Mechanic",
+      "prerequisites": "Desperate Assault",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 36678,
+      "title": "Break the Deal",
+      "wikiTitle": "Break the Deal",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Break_the_Deal",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 25692,
+      "title": "Broadcast - Part 1",
+      "wikiTitle": "Broadcast - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Broadcast_-_Part_1",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": "Reach Loyalty Level 2 with Jaeger."
+    },
+    {
+      "id": 28056,
+      "title": "Broadcast - Part 2",
+      "wikiTitle": "Broadcast - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Broadcast_-_Part_2",
+      "trader": "Mechanic",
+      "prerequisites": "Broadcast - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 28159,
+      "title": "Broadcast - Part 3",
+      "wikiTitle": "Broadcast - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Broadcast_-_Part_3",
+      "trader": "Jaeger",
+      "prerequisites": "Broadcast - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 28165,
+      "title": "Broadcast - Part 4",
+      "wikiTitle": "Broadcast - Part 4",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Broadcast_-_Part_4",
+      "trader": "Jaeger",
+      "prerequisites": "Broadcast - Part 3",
+      "requirements": ""
+    },
+    {
+      "id": 30511,
+      "title": "Broadcast - Part 5",
+      "wikiTitle": "Broadcast - Part 5",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Broadcast_-_Part_5",
+      "trader": "Jaeger",
+      "prerequisites": "Broadcast - Part 4",
+      "requirements": ""
+    },
+    {
+      "id": 37709,
+      "title": "Building Foundations",
+      "wikiTitle": "Building Foundations",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Building_Foundations",
+      "trader": "BTR Driver",
+      "prerequisites": "Swift RetributionorInevitable Response",
+      "requirements": ""
+    },
+    {
+      "id": 12237,
+      "title": "Bullshit",
+      "wikiTitle": "Bullshit",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Bullshit",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 31681,
+      "title": "Burning Rubber",
+      "wikiTitle": "Burning Rubber",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Burning_Rubber",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21762,
+      "title": "Calibration",
+      "wikiTitle": "Calibration",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Calibration",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34277,
+      "title": "Camera, Action!",
+      "wikiTitle": "Camera, Action!",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Camera%2C_Action!",
+      "trader": "Mechanic",
+      "prerequisites": "Serious Allegations",
+      "requirements": "This quest is only available to buyers of the \"Edge of Darkness\" edition of the game."
+    },
+    {
+      "id": 46487,
+      "title": "Can't Drink Away Skill",
+      "wikiTitle": "Can't Drink Away Skill",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Can't_Drink_Away_Skill",
+      "trader": "Ragman",
+      "prerequisites": "Is This a Reference?",
+      "requirements": ""
+    },
+    {
+      "id": 21755,
+      "title": "Capturing Outposts",
+      "wikiTitle": "Capturing Outposts",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Capturing_Outposts",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6738,
+      "title": "Car Repair",
+      "wikiTitle": "Car Repair",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Car_Repair",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 7781,
+      "title": "Cargo X",
+      "wikiTitle": "Cargo X",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Cargo_X",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 45611,
+      "title": "Cast the Net",
+      "wikiTitle": "Cast the Net",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Cast_the_Net",
+      "trader": "Prapor",
+      "prerequisites": "Uninvited Guests - Part 2",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 27842,
+      "title": "Cease Fire!",
+      "wikiTitle": "Cease Fire!",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Cease_Fire!",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6414,
+      "title": "Charity",
+      "wikiTitle": "Charity",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Charity",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6748,
+      "title": "Chemical - Part 1",
+      "wikiTitle": "Chemical - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_1",
+      "trader": "Skier",
+      "prerequisites": "Burning RubberorSupplier",
+      "requirements": ""
+    },
+    {
+      "id": 6752,
+      "title": "Chemical - Part 2",
+      "wikiTitle": "Chemical - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_2",
+      "trader": "Skier",
+      "prerequisites": "Chemical - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 6786,
+      "title": "Chemical - Part 3",
+      "wikiTitle": "Chemical - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_3",
+      "trader": "Skier",
+      "prerequisites": "Chemical - Part 2",
+      "requirements": "Reach Loyalty Level 2 with Jaeger to obtain this quest."
+    },
+    {
+      "id": 6780,
+      "title": "Chemical - Part 4",
+      "wikiTitle": "Chemical - Part 4",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_4",
+      "trader": "Skier",
+      "prerequisites": "Chemical - Part 3",
+      "requirements": ""
+    },
+    {
+      "id": 7595,
+      "title": "Chemical Experiments",
+      "wikiTitle": "Chemical Experiments",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Chemical_Experiments",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 18974,
+      "title": "Chemistry Closet",
+      "wikiTitle": "Chemistry Closet",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Chemistry_Closet",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37764,
+      "title": "Choose Your Friends Wisely",
+      "wikiTitle": "Choose Your Friends Wisely",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Choose_Your_Friends_Wisely",
+      "trader": "Skier",
+      "prerequisites": "DiscombobulateKiller Argument",
+      "requirements": ""
+    },
+    {
+      "id": 10755,
+      "title": "Chumming",
+      "wikiTitle": "Chumming",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Chumming",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34301,
+      "title": "Circulate",
+      "wikiTitle": "Circulate",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Circulate",
+      "trader": "Ragman",
+      "prerequisites": "The Invisible Hand",
+      "requirements": ""
+    },
+    {
+      "id": 21400,
+      "title": "Classified Technologies",
+      "wikiTitle": "Classified Technologies",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Classified_Technologies",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34790,
+      "title": "Claustrophobia",
+      "wikiTitle": "Claustrophobia",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Claustrophobia",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 18891,
+      "title": "Colleagues",
+      "wikiTitle": "Colleagues",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Colleagues",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 13469,
+      "title": "Collector",
+      "wikiTitle": "Collector",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Collector",
+      "trader": "Fence",
+      "prerequisites": "See requirements",
+      "requirements": "Reach Loyalty Level 4 with Prapor, Therapist, Skier, Peacekeeper, Mechanic, Ragman and Jaeger."
+    },
+    {
+      "id": 34339,
+      "title": "Combat Proven",
+      "wikiTitle": "Combat Proven",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Combat_Proven",
+      "trader": "Ragman",
+      "prerequisites": "Special Offer",
+      "requirements": ""
+    },
+    {
+      "id": 24721,
+      "title": "Compensation for Damage - Barkeep",
+      "wikiTitle": "Compensation for Damage - Barkeep",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Compensation_for_Damage_-_Barkeep",
+      "trader": "Fence",
+      "prerequisites": "See requirements",
+      "requirements": "Scav karma of -1"
+    },
+    {
+      "id": 24719,
+      "title": "Compensation for Damage - Collection",
+      "wikiTitle": "Compensation for Damage - Collection",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Compensation_for_Damage_-_Collection",
+      "trader": "Fence",
+      "prerequisites": "See requirements",
+      "requirements": "Scav karma of -1"
+    },
+    {
+      "id": 24718,
+      "title": "Compensation for Damage - Trust",
+      "wikiTitle": "Compensation for Damage - Trust",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Compensation_for_Damage_-_Trust",
+      "trader": "Fence",
+      "prerequisites": "See requirements",
+      "requirements": "Scav karma of -1"
+    },
+    {
+      "id": 24717,
+      "title": "Compensation for Damage - Wager",
+      "wikiTitle": "Compensation for Damage - Wager",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Compensation_for_Damage_-_Wager",
+      "trader": "Fence",
+      "prerequisites": "See requirements",
+      "requirements": "Scav karma of -1"
+    },
+    {
+      "id": 24720,
+      "title": "Compensation for Damage - Wergild",
+      "wikiTitle": "Compensation for Damage - Wergild",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Compensation_for_Damage_-_Wergild",
+      "trader": "Fence",
+      "prerequisites": "See requirements",
+      "requirements": "Scav karma of -3"
+    },
+    {
+      "id": 38174,
+      "title": "Confidential Info",
+      "wikiTitle": "Confidential Info",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Confidential_Info",
+      "trader": "Peacekeeper",
+      "prerequisites": "Offensive Reconnaissance",
+      "requirements": ""
+    },
+    {
+      "id": 36871,
+      "title": "Connections Up North",
+      "wikiTitle": "Connections Up North",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Connections_Up_North",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 45794,
+      "title": "Consequences of Our Decisions",
+      "wikiTitle": "Consequences of Our Decisions",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Consequences_of_Our_Decisions",
+      "trader": "Mechanic",
+      "prerequisites": "Accept Final Stretch",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 38950,
+      "title": "Consolation Prize",
+      "wikiTitle": "Consolation Prize",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Consolation_Prize",
+      "trader": "Skier",
+      "prerequisites": "Profit RetentionorGet a Foothold",
+      "requirements": ""
+    },
+    {
+      "id": 32179,
+      "title": "Corporate Perks",
+      "wikiTitle": "Corporate Perks",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Corporate_Perks",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 23870,
+      "title": "Corporate Secrets",
+      "wikiTitle": "Corporate Secrets",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Corporate_Secrets",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 23940,
+      "title": "Counteraction",
+      "wikiTitle": "Counteraction",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Counteraction",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 14955,
+      "title": "Courtesy Visit",
+      "wikiTitle": "Courtesy Visit",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Courtesy_Visit",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34027,
+      "title": "Create a Distraction - Part 1",
+      "wikiTitle": "Create a Distraction - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Create_a_Distraction_-_Part_1",
+      "trader": "Ref",
+      "prerequisites": "Surprise",
+      "requirements": ""
+    },
+    {
+      "id": 34039,
+      "title": "Create a Distraction - Part 2",
+      "wikiTitle": "Create a Distraction - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Create_a_Distraction_-_Part_2",
+      "trader": "Ref",
+      "prerequisites": "Create a Distraction - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 21759,
+      "title": "Crisis",
+      "wikiTitle": "Crisis",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Crisis",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 46628,
+      "title": "Cut Down to the Root",
+      "wikiTitle": "Cut Down to the Root",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Cut_Down_to_the_Root",
+      "trader": "Jaeger",
+      "prerequisites": "Scope the Clearing",
+      "requirements": ""
+    },
+    {
+      "id": 32145,
+      "title": "Dandies",
+      "wikiTitle": "Dandies",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Dandies",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 36005,
+      "title": "Dangerous Props",
+      "wikiTitle": "Dangerous Props",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Dangerous_Props",
+      "trader": "Skier",
+      "prerequisites": "Irresistible",
+      "requirements": ""
+    },
+    {
+      "id": 28127,
+      "title": "Debtor",
+      "wikiTitle": "Debtor",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Debtor",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 6137,
+      "title": "Debut",
+      "wikiTitle": "Debut",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Debut",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34100,
+      "title": "Decisions, Decisions",
+      "wikiTitle": "Decisions, Decisions",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Decisions%2C_Decisions",
+      "trader": "Ref",
+      "prerequisites": "Accept Between Two Fires",
+      "requirements": ""
+    },
+    {
+      "id": 12378,
+      "title": "Decontamination Service",
+      "wikiTitle": "Decontamination Service",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Decontamination_Service",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6183,
+      "title": "Delivery From the Past",
+      "wikiTitle": "Delivery From the Past",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Delivery_From_the_Past",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 46111,
+      "title": "Demonstration Model",
+      "wikiTitle": "Demonstration Model",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Demonstration_Model",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 45796,
+      "title": "Desperate Assault",
+      "wikiTitle": "Desperate Assault",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Desperate_Assault",
+      "trader": "Mechanic",
+      "prerequisites": "Final StretchorConsequences of Our Decisions",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 45810,
+      "title": "Digital Puzzle",
+      "wikiTitle": "Digital Puzzle",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Digital_Puzzle",
+      "trader": "Mechanic",
+      "prerequisites": "Break the Chain",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 37759,
+      "title": "Discombobulate",
+      "wikiTitle": "Discombobulate",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Discombobulate",
+      "trader": "BTR Driver",
+      "prerequisites": "Protect the Sky",
+      "requirements": ""
+    },
+    {
+      "id": 21246,
+      "title": "Disease History",
+      "wikiTitle": "Disease History",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Disease_History",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 30682,
+      "title": "District Patrol",
+      "wikiTitle": "District Patrol",
+      "url": "https://escapefromtarkov.fandom.com/wiki/District_Patrol",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21346,
+      "title": "Documents",
+      "wikiTitle": "Documents",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Documents",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34982,
+      "title": "Dragnet",
+      "wikiTitle": "Dragnet",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Dragnet",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10261,
+      "title": "Dressed to Kill",
+      "wikiTitle": "Dressed to Kill",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Dressed_to_Kill",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 33710,
+      "title": "Drip-Out - Part 1",
+      "wikiTitle": "Drip-Out - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Drip-Out_-_Part_1",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 33711,
+      "title": "Drip-Out - Part 2",
+      "wikiTitle": "Drip-Out - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Drip-Out_-_Part_2",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 25767,
+      "title": "Drug Trafficking",
+      "wikiTitle": "Drug Trafficking",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Drug_Trafficking",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 7472,
+      "title": "Eagle Eye",
+      "wikiTitle": "Eagle Eye",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Eagle_Eye",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 46627,
+      "title": "Ease the Move",
+      "wikiTitle": "Ease the Move",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Ease_the_Move",
+      "trader": "Peacekeeper",
+      "prerequisites": "Scope the Clearing",
+      "requirements": ""
+    },
+    {
+      "id": 23898,
+      "title": "Easy Job",
+      "wikiTitle": "Easy Job",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Easy_Job",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 33984,
+      "title": "Easy Money - Part 1",
+      "wikiTitle": "Easy Money - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Easy_Money_-_Part_1",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 33996,
+      "title": "Easy Money - Part 2",
+      "wikiTitle": "Easy Money - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Easy_Money_-_Part_2",
+      "trader": "Ref",
+      "prerequisites": "Easy Money - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 35385,
+      "title": "Easy-Breezy",
+      "wikiTitle": "Easy-Breezy",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Easy-Breezy",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 23936,
+      "title": "Energy Crisis",
+      "wikiTitle": "Energy Crisis",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Energy_Crisis",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21757,
+      "title": "Escort",
+      "wikiTitle": "Escort",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Escort",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34283,
+      "title": "Establish Contact",
+      "wikiTitle": "Establish Contact",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Establish_Contact",
+      "trader": "Fence",
+      "prerequisites": "See requirements",
+      "requirements": "Scav karma of at least +4"
+    },
+    {
+      "id": 34972,
+      "title": "Every Hunter Knows This",
+      "wikiTitle": "Every Hunter Knows This",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Every_Hunter_Knows_This",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 35201,
+      "title": "Exit Here",
+      "wikiTitle": "Exit Here",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Exit_Here",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 39230,
+      "title": "Fair Price - Part 1",
+      "wikiTitle": "Fair Price - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Fair_Price_-_Part_1",
+      "trader": "Skier",
+      "prerequisites": "Accept Hobby Club",
+      "requirements": ""
+    },
+    {
+      "id": 39231,
+      "title": "Fair Price - Part 2",
+      "wikiTitle": "Fair Price - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Fair_Price_-_Part_2",
+      "trader": "Skier",
+      "prerequisites": "Fair Price - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 45042,
+      "title": "Fall Ailment",
+      "wikiTitle": "Fall Ailment",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Fall_Ailment",
+      "trader": "Therapist",
+      "prerequisites": "First in LineorOperation AquariusorSupply Plans",
+      "requirements": ""
+    },
+    {
+      "id": 9600,
+      "title": "Farming",
+      "wikiTitle": "Farming",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Farming",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 12253,
+      "title": "Fertilizers",
+      "wikiTitle": "Fertilizers",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Fertilizers",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 45786,
+      "title": "Final Stretch",
+      "wikiTitle": "Final Stretch",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Final_Stretch",
+      "trader": "Fence",
+      "prerequisites": "Sheep in Wolf's Clothing",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 14949,
+      "title": "First Aid",
+      "wikiTitle": "First Aid",
+      "url": "https://escapefromtarkov.fandom.com/wiki/First_Aid",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 31680,
+      "title": "First in Line",
+      "wikiTitle": "First in Line",
+      "url": "https://escapefromtarkov.fandom.com/wiki/First_in_Line",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 43559,
+      "title": "First Introduction",
+      "wikiTitle": "First Introduction",
+      "url": "https://escapefromtarkov.fandom.com/wiki/First_Introduction",
+      "trader": "Ref",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 7463,
+      "title": "Fishing Gear",
+      "wikiTitle": "Fishing Gear",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Fishing_Gear",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14953,
+      "title": "Fishing Place",
+      "wikiTitle": "Fishing Place",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Fishing_Place",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 28558,
+      "title": "Following the Bread Crumbs",
+      "wikiTitle": "Following the Bread Crumbs",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Following_the_Bread_Crumbs",
+      "trader": "Lightkeeper",
+      "prerequisites": "Provocation (+10hr)",
+      "requirements": ""
+    },
+    {
+      "id": 45746,
+      "title": "Forbidden Knowledge",
+      "wikiTitle": "Forbidden Knowledge",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Forbidden_Knowledge",
+      "trader": "Fence",
+      "prerequisites": "What's in the Bag?",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 35408,
+      "title": "Forester's Duty",
+      "wikiTitle": "Forester's Duty",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Forester's_Duty",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37737,
+      "title": "Forge a Friendship",
+      "wikiTitle": "Forge a Friendship",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Forge_a_Friendship",
+      "trader": "Prapor",
+      "prerequisites": "Swift RetributionNatural Exchange",
+      "requirements": ""
+    },
+    {
+      "id": 44649,
+      "title": "Fresh Stock",
+      "wikiTitle": "Fresh Stock",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Fresh_Stock",
+      "trader": "Ragman",
+      "prerequisites": "See requirements",
+      "requirements": "Hand over the hard drives from compartment C-1 on Icebreaker to Mechanic in the Boreas story chapter."
+    },
+    {
+      "id": 34284,
+      "title": "Friend Among Strangers",
+      "wikiTitle": "Friend Among Strangers",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Friend_Among_Strangers",
+      "trader": "Fence",
+      "prerequisites": "Establish Contact",
+      "requirements": ""
+    },
+    {
+      "id": 7460,
+      "title": "Friend From the West",
+      "wikiTitle": "Friend From the West",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Friend_From_the_West",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 12251,
+      "title": "From Hand to Hand",
+      "wikiTitle": "From Hand to Hand",
+      "url": "https://escapefromtarkov.fandom.com/wiki/From_Hand_to_Hand",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10260,
+      "title": "Fuel Crisis",
+      "wikiTitle": "Fuel Crisis",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Fuel_Crisis",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 7496,
+      "title": "Fuel Shortage",
+      "wikiTitle": "Fuel Shortage",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Fuel_Shortage",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6420,
+      "title": "General Wares",
+      "wikiTitle": "General Wares",
+      "url": "https://escapefromtarkov.fandom.com/wiki/General_Wares",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 38940,
+      "title": "Get a Foothold",
+      "wikiTitle": "Get a Foothold",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Get_a_Foothold",
+      "trader": "Skier",
+      "prerequisites": "Never Too Late To Learn",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 32442,
+      "title": "Getting Some Air",
+      "wikiTitle": "Getting Some Air",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Getting_Some_Air",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 23923,
+      "title": "Gifts from Tarkov",
+      "wikiTitle": "Gifts from Tarkov",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gifts_from_Tarkov",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 43580,
+      "title": "Gladiator Doping - Part 1",
+      "wikiTitle": "Gladiator Doping - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Doping_-_Part_1",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Life - Final Exam",
+      "requirements": ""
+    },
+    {
+      "id": 43594,
+      "title": "Gladiator Doping - Part 2",
+      "wikiTitle": "Gladiator Doping - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Doping_-_Part_2",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Doping - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 43595,
+      "title": "Gladiator Doping - Part 3",
+      "wikiTitle": "Gladiator Doping - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Doping_-_Part_3",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Doping - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 43607,
+      "title": "Gladiator Doping - Part 4",
+      "wikiTitle": "Gladiator Doping - Part 4",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Doping_-_Part_4",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Doping - Part 3",
+      "requirements": ""
+    },
+    {
+      "id": 43579,
+      "title": "Gladiator Life - Final Exam",
+      "wikiTitle": "Gladiator Life - Final Exam",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Final_Exam",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Life - Part 10",
+      "requirements": ""
+    },
+    {
+      "id": 43560,
+      "title": "Gladiator Life - Part 1",
+      "wikiTitle": "Gladiator Life - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Part_1",
+      "trader": "Ref",
+      "prerequisites": "First Introduction",
+      "requirements": ""
+    },
+    {
+      "id": 43578,
+      "title": "Gladiator Life - Part 10",
+      "wikiTitle": "Gladiator Life - Part 10",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Part_10",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Life - Part 9",
+      "requirements": ""
+    },
+    {
+      "id": 43569,
+      "title": "Gladiator Life - Part 2",
+      "wikiTitle": "Gladiator Life - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Part_2",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Life - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 43570,
+      "title": "Gladiator Life - Part 3",
+      "wikiTitle": "Gladiator Life - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Part_3",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Life - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 43571,
+      "title": "Gladiator Life - Part 4",
+      "wikiTitle": "Gladiator Life - Part 4",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Part_4",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Life - Part 3",
+      "requirements": ""
+    },
+    {
+      "id": 43572,
+      "title": "Gladiator Life - Part 5",
+      "wikiTitle": "Gladiator Life - Part 5",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Part_5",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Life - Part 4",
+      "requirements": ""
+    },
+    {
+      "id": 43574,
+      "title": "Gladiator Life - Part 6",
+      "wikiTitle": "Gladiator Life - Part 6",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Part_6",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Life - Part 5",
+      "requirements": ""
+    },
+    {
+      "id": 43575,
+      "title": "Gladiator Life - Part 7",
+      "wikiTitle": "Gladiator Life - Part 7",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Part_7",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Life - Part 6",
+      "requirements": ""
+    },
+    {
+      "id": 43576,
+      "title": "Gladiator Life - Part 8",
+      "wikiTitle": "Gladiator Life - Part 8",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Part_8",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Life - Part 7",
+      "requirements": ""
+    },
+    {
+      "id": 43577,
+      "title": "Gladiator Life - Part 9",
+      "wikiTitle": "Gladiator Life - Part 9",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Part_9",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Life - Part 8",
+      "requirements": ""
+    },
+    {
+      "id": 30492,
+      "title": "Glory to CPSU",
+      "wikiTitle": "Glory to CPSU",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Glory_to_CPSU",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 40208,
+      "title": "Goals and Means",
+      "wikiTitle": "Goals and Means",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Goals_and_Means",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6743,
+      "title": "Golden Swag",
+      "wikiTitle": "Golden Swag",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Golden_Swag",
+      "trader": "Skier",
+      "prerequisites": "Burning RubberorSupplier",
+      "requirements": ""
+    },
+    {
+      "id": 10271,
+      "title": "Gratitude",
+      "wikiTitle": "Gratitude",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gratitude",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 28200,
+      "title": "Green Corridor",
+      "wikiTitle": "Green Corridor",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Green_Corridor",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 12376,
+      "title": "Grenadier",
+      "wikiTitle": "Grenadier",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Grenadier",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10256,
+      "title": "Gunsmith - AK-105",
+      "wikiTitle": "Gunsmith - AK-105",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_AK-105",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 9597,
+      "title": "Gunsmith - AKM",
+      "wikiTitle": "Gunsmith - AKM",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_AKM",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 10254,
+      "title": "Gunsmith - AKS-74N",
+      "wikiTitle": "Gunsmith - AKS-74N",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_AKS-74N",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 9593,
+      "title": "Gunsmith - AKS-74U",
+      "wikiTitle": "Gunsmith - AKS-74U",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_AKS-74U",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10746,
+      "title": "Gunsmith - AS VAL",
+      "wikiTitle": "Gunsmith - AS VAL",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_AS_VAL",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 9594,
+      "title": "Gunsmith - HK MP5",
+      "wikiTitle": "Gunsmith - HK MP5",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_HK_MP5",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10248,
+      "title": "Gunsmith - M4A1",
+      "wikiTitle": "Gunsmith - M4A1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_M4A1",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 9596,
+      "title": "Gunsmith - Model 870",
+      "wikiTitle": "Gunsmith - Model 870",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Model_870",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 9592,
+      "title": "Gunsmith - MP-133",
+      "wikiTitle": "Gunsmith - MP-133",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_MP-133",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10744,
+      "title": "Gunsmith - MPX",
+      "wikiTitle": "Gunsmith - MPX",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_MPX",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 9595,
+      "title": "Gunsmith - OP-SKS",
+      "wikiTitle": "Gunsmith - OP-SKS",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_OP-SKS",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 27831,
+      "title": "Gunsmith - P226R",
+      "wikiTitle": "Gunsmith - P226R",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_P226R",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 10257,
+      "title": "Gunsmith - Vector 9x19",
+      "wikiTitle": "Gunsmith - Vector 9x19",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Vector_9x19",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 10745,
+      "title": "Gunsmith Master - Part 1",
+      "wikiTitle": "Gunsmith Master - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_Master_-_Part_1",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 30490,
+      "title": "Gunsmith Master - Part 10",
+      "wikiTitle": "Gunsmith Master - Part 10",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_Master_-_Part_10",
+      "trader": "Mechanic",
+      "prerequisites": "Gunsmith Master - Part 9",
+      "requirements": ""
+    },
+    {
+      "id": 30612,
+      "title": "Gunsmith Master - Part 11",
+      "wikiTitle": "Gunsmith Master - Part 11",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_Master_-_Part_11",
+      "trader": "Mechanic",
+      "prerequisites": "Gunsmith Master - Part 10",
+      "requirements": ""
+    },
+    {
+      "id": 36671,
+      "title": "Gunsmith Master - Part 12",
+      "wikiTitle": "Gunsmith Master - Part 12",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_Master_-_Part_12",
+      "trader": "Mechanic",
+      "prerequisites": "Gunsmith Master - Part 11",
+      "requirements": ""
+    },
+    {
+      "id": 30621,
+      "title": "Gunsmith Master - Part 13",
+      "wikiTitle": "Gunsmith Master - Part 13",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_Master_-_Part_13",
+      "trader": "Mechanic",
+      "prerequisites": "Gunsmith Master - Part 12",
+      "requirements": ""
+    },
+    {
+      "id": 27838,
+      "title": "Gunsmith Master - Part 2",
+      "wikiTitle": "Gunsmith Master - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_Master_-_Part_2",
+      "trader": "Mechanic",
+      "prerequisites": "Gunsmith Master - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 10747,
+      "title": "Gunsmith Master - Part 3",
+      "wikiTitle": "Gunsmith Master - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_Master_-_Part_3",
+      "trader": "Mechanic",
+      "prerequisites": "Gunsmith Master - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 28004,
+      "title": "Gunsmith Master - Part 4",
+      "wikiTitle": "Gunsmith Master - Part 4",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_Master_-_Part_4",
+      "trader": "Mechanic",
+      "prerequisites": "Gunsmith Master - Part 3",
+      "requirements": ""
+    },
+    {
+      "id": 28007,
+      "title": "Gunsmith Master - Part 5",
+      "wikiTitle": "Gunsmith Master - Part 5",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_Master_-_Part_5",
+      "trader": "Mechanic",
+      "prerequisites": "Gunsmith Master - Part 4",
+      "requirements": ""
+    },
+    {
+      "id": 28054,
+      "title": "Gunsmith Master - Part 6",
+      "wikiTitle": "Gunsmith Master - Part 6",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_Master_-_Part_6",
+      "trader": "Mechanic",
+      "prerequisites": "Gunsmith Master - Part 5",
+      "requirements": ""
+    },
+    {
+      "id": 28006,
+      "title": "Gunsmith Master - Part 7",
+      "wikiTitle": "Gunsmith Master - Part 7",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_Master_-_Part_7",
+      "trader": "Mechanic",
+      "prerequisites": "Gunsmith Master - Part 6",
+      "requirements": ""
+    },
+    {
+      "id": 43249,
+      "title": "Gunsmith Master - Part 8",
+      "wikiTitle": "Gunsmith Master - Part 8",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_Master_-_Part_8",
+      "trader": "Mechanic",
+      "prerequisites": "Gunsmith Master - Part 7",
+      "requirements": ""
+    },
+    {
+      "id": 28005,
+      "title": "Gunsmith Master - Part 9",
+      "wikiTitle": "Gunsmith Master - Part 9",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_Master_-_Part_9",
+      "trader": "Mechanic",
+      "prerequisites": "Gunsmith Master - Part 8",
+      "requirements": ""
+    },
+    {
+      "id": 37738,
+      "title": "Half-Empty",
+      "wikiTitle": "Half-Empty",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Half-Empty",
+      "trader": "Prapor",
+      "prerequisites": "Forge a Friendship",
+      "requirements": ""
+    },
+    {
+      "id": 44499,
+      "title": "Hangover",
+      "wikiTitle": "Hangover",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Hangover",
+      "trader": "BTR Driver",
+      "prerequisites": "A Bitter Victory",
+      "requirements": ""
+    },
+    {
+      "id": 8057,
+      "title": "Health Care Privacy - Part 1",
+      "wikiTitle": "Health Care Privacy - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_1",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 8079,
+      "title": "Health Care Privacy - Part 2",
+      "wikiTitle": "Health Care Privacy - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_2",
+      "trader": "Therapist",
+      "prerequisites": "Health Care Privacy - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 8067,
+      "title": "Health Care Privacy - Part 3",
+      "wikiTitle": "Health Care Privacy - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_3",
+      "trader": "Therapist",
+      "prerequisites": "Health Care Privacy - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 8065,
+      "title": "Health Care Privacy - Part 4",
+      "wikiTitle": "Health Care Privacy - Part 4",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_4",
+      "trader": "Therapist",
+      "prerequisites": "Health Care Privacy - Part 3",
+      "requirements": ""
+    },
+    {
+      "id": 8064,
+      "title": "Health Care Privacy - Part 5",
+      "wikiTitle": "Health Care Privacy - Part 5",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_5",
+      "trader": "Therapist",
+      "prerequisites": "Health Care Privacy - Part 4",
+      "requirements": ""
+    },
+    {
+      "id": 34626,
+      "title": "Health Care Privacy - Part 6",
+      "wikiTitle": "Health Care Privacy - Part 6",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_6",
+      "trader": "Therapist",
+      "prerequisites": "Health Care Privacy - Part 5",
+      "requirements": ""
+    },
+    {
+      "id": 34259,
+      "title": "Hell on Earth - Part 1",
+      "wikiTitle": "Hell on Earth - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Hell_on_Earth_-_Part_1",
+      "trader": "Prapor",
+      "prerequisites": "Accept The Good Times - Part 1",
+      "requirements": "This quest is only available to buyers of the \"Edge of Darkness\" edition of the game."
+    },
+    {
+      "id": 34274,
+      "title": "Hell on Earth - Part 2",
+      "wikiTitle": "Hell on Earth - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Hell_on_Earth_-_Part_2",
+      "trader": "Prapor",
+      "prerequisites": "Hell on Earth - Part 1",
+      "requirements": "This quest is only available to buyers of the \"Edge of Darkness\" edition of the game."
+    },
+    {
+      "id": 37946,
+      "title": "Hidden Layer",
+      "wikiTitle": "Hidden Layer",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Hidden_Layer",
+      "trader": "Mechanic",
+      "prerequisites": "Needle in a Haystack",
+      "requirements": ""
+    },
+    {
+      "id": 45863,
+      "title": "Hiking",
+      "wikiTitle": "Hiking",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Hiking",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37725,
+      "title": "Hindsight 20/20",
+      "wikiTitle": "Hindsight 20/20",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Hindsight_20%2F20",
+      "trader": "Skier",
+      "prerequisites": "Route Deviation (+6hr)",
+      "requirements": ""
+    },
+    {
+      "id": 45993,
+      "title": "Historical Prospects",
+      "wikiTitle": "Historical Prospects",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Historical_Prospects",
+      "trader": "Lightkeeper",
+      "prerequisites": "...for the Good of the Chosen",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 39232,
+      "title": "Hobby Club",
+      "wikiTitle": "Hobby Club",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Hobby_Club",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 43244,
+      "title": "Hold the Lead",
+      "wikiTitle": "Hold the Lead",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Hold_the_Lead",
+      "trader": "Ref",
+      "prerequisites": "To Great Heights! - Part 6",
+      "requirements": ""
+    },
+    {
+      "id": 46573,
+      "title": "Honest Review",
+      "wikiTitle": "Honest Review",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Honest_Review",
+      "trader": "BTR Driver",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10750,
+      "title": "Hot Delivery",
+      "wikiTitle": "Hot Delivery",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Hot_Delivery",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37689,
+      "title": "Hot Wheels",
+      "wikiTitle": "Hot Wheels",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Hot_Wheels",
+      "trader": "BTR Driver",
+      "prerequisites": "Shipping Delay - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 37690,
+      "title": "Hot Wheels - Let's Try Again",
+      "wikiTitle": "Hot Wheels - Let's Try Again",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Hot_Wheels_-_Let's_Try_Again",
+      "trader": "BTR Driver",
+      "prerequisites": "Fail Hot Wheels (+24hr)",
+      "requirements": ""
+    },
+    {
+      "id": 28117,
+      "title": "House Arrest",
+      "wikiTitle": "House Arrest",
+      "url": "https://escapefromtarkov.fandom.com/wiki/House_Arrest",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 7473,
+      "title": "Humanitarian Supplies",
+      "wikiTitle": "Humanitarian Supplies",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Humanitarian_Supplies",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14965,
+      "title": "Hunting Trip",
+      "wikiTitle": "Hunting Trip",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Hunting_Trip",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 38148,
+      "title": "Hypotheses Testing",
+      "wikiTitle": "Hypotheses Testing",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Hypotheses_Testing",
+      "trader": "Mechanic",
+      "prerequisites": "Offensive Reconnaissance",
+      "requirements": ""
+    },
+    {
+      "id": 43673,
+      "title": "I Am Speed - Part 1",
+      "wikiTitle": "I Am Speed - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/I_Am_Speed_-_Part_1",
+      "trader": "Ref",
+      "prerequisites": "Advertising Business - Part 6",
+      "requirements": ""
+    },
+    {
+      "id": 43665,
+      "title": "I Am Speed - Part 2",
+      "wikiTitle": "I Am Speed - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/I_Am_Speed_-_Part_2",
+      "trader": "Ref",
+      "prerequisites": "I Am Speed - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 43667,
+      "title": "I Am Speed - Part 3",
+      "wikiTitle": "I Am Speed - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/I_Am_Speed_-_Part_3",
+      "trader": "Ref",
+      "prerequisites": "I Am Speed - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 7497,
+      "title": "I Need More Power",
+      "wikiTitle": "I Need More Power",
+      "url": "https://escapefromtarkov.fandom.com/wiki/I_Need_More_Power",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 46578,
+      "title": "I'm Something of a BTR Myself",
+      "wikiTitle": "I'm Something of a BTR Myself",
+      "url": "https://escapefromtarkov.fandom.com/wiki/I'm_Something_of_a_BTR_Myself",
+      "trader": "BTR Driver",
+      "prerequisites": "Honest Review",
+      "requirements": ""
+    },
+    {
+      "id": 6370,
+      "title": "Ice Cream Cones",
+      "wikiTitle": "Ice Cream Cones",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Ice_Cream_Cones",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 9602,
+      "title": "Ill-Wisher",
+      "wikiTitle": "Ill-Wisher",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Ill-Wisher",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34286,
+      "title": "Immunity",
+      "wikiTitle": "Immunity (quest)",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Immunity_(quest)",
+      "trader": "Fence",
+      "prerequisites": "Friend Among Strangers",
+      "requirements": "",
+      "content": "For the skill, see Immunity.\n\nImmunity is a Quest in Escape from Tarkov.\n\n== Dialogue ==\nWell, you've proven you won't shoot indiscriminately. Recently, one of my men was poisoned on a mission and didn't even make it to the extraction point. We couldn't figure out what toxin caused his death. The guy went on a scouting trip to the white chalk circles. I need a more fresh sample and a tough employee who can survive the poisoning and make it back from the raid.\n\n== Objectives ==\nExtract from the location with the \"Unknown toxin\" status effect\n\n== Rewards ==\n+28,000 EXP\nFence Rep +0.02\n1,150 Euros\n1,208 Euros with Intelligence Center Level 1\n1,323 Euros with Intelligence Center Level 2\n5× XTG-12 antidote injector\nYou survived the poisoning? Now I'll try to get some information from your blood samples and get in touch with the right people. Either way, you've already earned your reward.\n\n== Guide ==\nIn this quest you have to extract from a raid while suffering from the  effect.\n\nThe effect is inflicted by being stabbed with a Cultist knife, by either a Cultist or another player. Barbed wire in The Labyrinth also has a chance to inflict the effect upon contact.\n\nWhile being afflicted with the status effect, your health points will drain at a rate of 140/min. You can use a Propital injector to partially counteract the health drain for 5 minutes, or an ETG injector to fully nullify the damage for 60 seconds. It is highly recommended to bring multiple medkits."
+    },
+    {
+      "id": 12383,
+      "title": "Import",
+      "wikiTitle": "Import",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Import",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 46522,
+      "title": "In the Name of Humanity...",
+      "wikiTitle": "In the Name of Humanity...",
+      "url": "https://escapefromtarkov.fandom.com/wiki/In_the_Name_of_Humanity...",
+      "trader": "Lightkeeper",
+      "prerequisites": "Price for Information",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 38173,
+      "title": "Indisputable Authority",
+      "wikiTitle": "Indisputable Authority",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Indisputable_Authority",
+      "trader": "Skier",
+      "prerequisites": "Offensive Reconnaissance",
+      "requirements": ""
+    },
+    {
+      "id": 37707,
+      "title": "Inevitable Response",
+      "wikiTitle": "Inevitable Response",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Inevitable_Response",
+      "trader": "BTR Driver",
+      "prerequisites": "Hot Wheels - Let's Try Again",
+      "requirements": ""
+    },
+    {
+      "id": 28275,
+      "title": "Information Source",
+      "wikiTitle": "Information Source",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Information_Source",
+      "trader": "Lightkeeper",
+      "prerequisites": "To the Light - Getting Acquainted",
+      "requirements": ""
+    },
+    {
+      "id": 10754,
+      "title": "Informed Means Armed",
+      "wikiTitle": "Informed Means Armed",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Informed_Means_Armed",
+      "trader": "Skier",
+      "prerequisites": "Burning RubberorSupplier",
+      "requirements": ""
+    },
+    {
+      "id": 12239,
+      "title": "Insomnia",
+      "wikiTitle": "Insomnia",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Insomnia",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 21754,
+      "title": "Intimidator",
+      "wikiTitle": "Intimidator",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Intimidator",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14926,
+      "title": "Introduction",
+      "wikiTitle": "Introduction",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Introduction",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 46498,
+      "title": "Invasive Therapy",
+      "wikiTitle": "Invasive Therapy",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Invasive_Therapy",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10262,
+      "title": "Inventory Files",
+      "wikiTitle": "Inventory Files",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Inventory_Files",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 7013,
+      "title": "Ironclad Proof",
+      "wikiTitle": "Ironclad Proof",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Ironclad_Proof",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 35987,
+      "title": "Irresistible",
+      "wikiTitle": "Irresistible",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Irresistible",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 35661,
+      "title": "Is This a Reference?",
+      "wikiTitle": "Is This a Reference?",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Is_This_a_Reference%3F",
+      "trader": "Fence",
+      "prerequisites": "See requirements",
+      "requirements": "Must be level 25 to start this quest."
+    },
+    {
+      "id": 43675,
+      "title": "Jack of All Trades",
+      "wikiTitle": "Jack of All Trades",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Jack_of_All_Trades",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Doping - Part 4",
+      "requirements": ""
+    },
+    {
+      "id": 43674,
+      "title": "Jack of All Trades - Pro",
+      "wikiTitle": "Jack of All Trades - Pro",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Jack_of_All_Trades_-_Pro",
+      "trader": "Ref",
+      "prerequisites": "Advertising Business - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 30655,
+      "title": "Job for a Patriot",
+      "wikiTitle": "Job for a Patriot",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Job_for_a_Patriot",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 47909,
+      "title": "Keep Them in Line",
+      "wikiTitle": "Keep Them in Line",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Keep_Them_in_Line",
+      "trader": "Mechanic",
+      "prerequisites": "Saving the Mole",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 38171,
+      "title": "Keeper's Word",
+      "wikiTitle": "Keeper's Word",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Keeper's_Word",
+      "trader": "Lightkeeper",
+      "prerequisites": "Sensory Analysis - Part 2Hypotheses TestingVacate the PremisesConfidential InfoIndisputable AuthorityThis Tape Sucks",
+      "requirements": ""
+    },
+    {
+      "id": 37726,
+      "title": "Key Partner",
+      "wikiTitle": "Key Partner",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Key_Partner",
+      "trader": "Skier",
+      "prerequisites": "Hindsight 20/20 (+6hr)",
+      "requirements": ""
+    },
+    {
+      "id": 34285,
+      "title": "Key to the City",
+      "wikiTitle": "Key to the City",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Key_to_the_City",
+      "trader": "Ragman",
+      "prerequisites": "Proper Comeback",
+      "requirements": "This quest is only available to buyers of the \"Edge of Darkness\" edition of the game."
+    },
+    {
+      "id": 45651,
+      "title": "Key to Understanding",
+      "wikiTitle": "Key to Understanding",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Key_to_Understanding",
+      "trader": "Fence",
+      "prerequisites": "Reverse Gear",
+      "requirements": "Must be level 20 to start this quest."
+    },
+    {
+      "id": 37727,
+      "title": "Killer Argument",
+      "wikiTitle": "Killer Argument",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Killer_Argument",
+      "trader": "Skier",
+      "prerequisites": "Key Partner (+6hr)",
+      "requirements": ""
+    },
+    {
+      "id": 28077,
+      "title": "Kings of the Rooftops",
+      "wikiTitle": "Kings of the Rooftops",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Kings_of_the_Rooftops",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 45633,
+      "title": "Know Your Enemy",
+      "wikiTitle": "Know Your Enemy",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Know_Your_Enemy",
+      "trader": "Prapor",
+      "prerequisites": "Cast the Net",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 35409,
+      "title": "Know Your Place!",
+      "wikiTitle": "Know Your Place!",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Know_Your_Place!",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10749,
+      "title": "Living High is Not a Crime",
+      "wikiTitle": "Living High is Not a Crime",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Living_High_is_Not_a_Crime",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21756,
+      "title": "Long Line",
+      "wikiTitle": "Long Line",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Long_Line",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 23921,
+      "title": "Long Road",
+      "wikiTitle": "Long Road",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Long_Road",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 23880,
+      "title": "Lost Contact",
+      "wikiTitle": "Lost Contact",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Lost_Contact",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 31737,
+      "title": "Luxurious Life",
+      "wikiTitle": "Luxurious Life",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Luxurious_Life",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 28570,
+      "title": "Make Amends",
+      "wikiTitle": "Make Amends",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Make_Amends",
+      "trader": "Mechanic",
+      "prerequisites": "Make Amends - EquipmentorMake Amends - Sweep UporMake Amends - Quarantine",
+      "requirements": ""
+    },
+    {
+      "id": 28549,
+      "title": "Make Amends - Buyout",
+      "wikiTitle": "Make Amends - Buyout",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Make_Amends_-_Buyout",
+      "trader": "Mechanic",
+      "prerequisites": "See requirements",
+      "requirements": "Getting the Digital secure DSP radio transmitter decoded the first time."
+    },
+    {
+      "id": 28548,
+      "title": "Make Amends - Equipment",
+      "wikiTitle": "Make Amends - Equipment",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Make_Amends_-_Equipment",
+      "trader": "Mechanic",
+      "prerequisites": "Make Amends - Buyout",
+      "requirements": ""
+    },
+    {
+      "id": 34229,
+      "title": "Make Amends - Quarantine",
+      "wikiTitle": "Make Amends - Quarantine",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Make_Amends_-_Quarantine",
+      "trader": "Mechanic",
+      "prerequisites": "Make Amends - Software",
+      "requirements": ""
+    },
+    {
+      "id": 28547,
+      "title": "Make Amends - Security",
+      "wikiTitle": "Make Amends - Security",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Make_Amends_-_Security",
+      "trader": "Mechanic",
+      "prerequisites": "See requirements",
+      "requirements": "Getting the Digital secure DSP radio transmitter decoded the second time."
+    },
+    {
+      "id": 34228,
+      "title": "Make Amends - Software",
+      "wikiTitle": "Make Amends - Software",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Make_Amends_-_Software",
+      "trader": "Mechanic",
+      "prerequisites": "See requirements",
+      "requirements": "Getting the Digital secure DSP radio transmitter decoded the third time."
+    },
+    {
+      "id": 28557,
+      "title": "Make Amends - Sweep Up",
+      "wikiTitle": "Make Amends - Sweep Up",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Make_Amends_-_Sweep_Up",
+      "trader": "Mechanic",
+      "prerequisites": "Make Amends - Security",
+      "requirements": ""
+    },
+    {
+      "id": 28591,
+      "title": "Make an Impression",
+      "wikiTitle": "Make an Impression",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Make_an_Impression",
+      "trader": "Lightkeeper",
+      "prerequisites": "Spotter (+10hr)",
+      "requirements": ""
+    },
+    {
+      "id": 10249,
+      "title": "Make ULTRA Great Again",
+      "wikiTitle": "Make ULTRA Great Again",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Make_ULTRA_Great_Again",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 7498,
+      "title": "Master Key",
+      "wikiTitle": "Master Key",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Master_Key",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10756,
+      "title": "Metal Birds",
+      "wikiTitle": "Metal Birds",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Metal_Birds",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10751,
+      "title": "Minibus",
+      "wikiTitle": "Minibus",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Minibus",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34266,
+      "title": "Minute of Fame",
+      "wikiTitle": "Minute of Fame",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Minute_of_Fame",
+      "trader": "Skier",
+      "prerequisites": "The Good Times - Part 2",
+      "requirements": "This quest is only available to buyers of the \"Edge of Darkness\" edition of the game."
+    },
+    {
+      "id": 23914,
+      "title": "Missing Cargo",
+      "wikiTitle": "Missing Cargo",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Missing_Cargo",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 28368,
+      "title": "Missing Informant",
+      "wikiTitle": "Missing Informant",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Missing_Informant",
+      "trader": "Lightkeeper",
+      "prerequisites": "Information Source (+10hr)",
+      "requirements": ""
+    },
+    {
+      "id": 37712,
+      "title": "Natural Exchange",
+      "wikiTitle": "Natural Exchange",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Natural_Exchange",
+      "trader": "BTR Driver",
+      "prerequisites": "Building Foundations",
+      "requirements": ""
+    },
+    {
+      "id": 37923,
+      "title": "Needle in a Haystack",
+      "wikiTitle": "Needle in a Haystack",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Needle_in_a_Haystack",
+      "trader": "Mechanic",
+      "prerequisites": "Shady Contractor",
+      "requirements": ""
+    },
+    {
+      "id": 38939,
+      "title": "Never Too Late To Learn",
+      "wikiTitle": "Never Too Late To Learn",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Never_Too_Late_To_Learn",
+      "trader": "Skier",
+      "prerequisites": "Profitable Venture",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 37391,
+      "title": "New Beginning (Prestige 1)",
+      "wikiTitle": "New Beginning (Prestige 1)",
+      "url": "https://escapefromtarkov.fandom.com/wiki/New_Beginning_(Prestige_1)",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37785,
+      "title": "New Beginning (Prestige 2)",
+      "wikiTitle": "New Beginning (Prestige 2)",
+      "url": "https://escapefromtarkov.fandom.com/wiki/New_Beginning_(Prestige_2)",
+      "trader": "Ragman",
+      "prerequisites": "New Beginning (Prestige 1)",
+      "requirements": ""
+    },
+    {
+      "id": 39289,
+      "title": "New Beginning (Prestige 3)",
+      "wikiTitle": "New Beginning (Prestige 3)",
+      "url": "https://escapefromtarkov.fandom.com/wiki/New_Beginning_(Prestige_3)",
+      "trader": "Ragman",
+      "prerequisites": "New Beginning (Prestige 2)",
+      "requirements": ""
+    },
+    {
+      "id": 39399,
+      "title": "New Beginning (Prestige 4)",
+      "wikiTitle": "New Beginning (Prestige 4)",
+      "url": "https://escapefromtarkov.fandom.com/wiki/New_Beginning_(Prestige_4)",
+      "trader": "Ragman",
+      "prerequisites": "New Beginning (Prestige 3)",
+      "requirements": ""
+    },
+    {
+      "id": 40704,
+      "title": "New Beginning (Prestige 5)",
+      "wikiTitle": "New Beginning (Prestige 5)",
+      "url": "https://escapefromtarkov.fandom.com/wiki/New_Beginning_(Prestige_5)",
+      "trader": "Ragman",
+      "prerequisites": "New Beginning (Prestige 4)",
+      "requirements": ""
+    },
+    {
+      "id": 41221,
+      "title": "New Beginning (Prestige 6)",
+      "wikiTitle": "New Beginning (Prestige 6)",
+      "url": "https://escapefromtarkov.fandom.com/wiki/New_Beginning_(Prestige_6)",
+      "trader": "Ragman",
+      "prerequisites": "New Beginning (Prestige 5)",
+      "requirements": ""
+    },
+    {
+      "id": 35360,
+      "title": "New Paths",
+      "wikiTitle": "New Paths",
+      "url": "https://escapefromtarkov.fandom.com/wiki/New_Paths",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21761,
+      "title": "Night Sweep",
+      "wikiTitle": "Night Sweep",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Night_Sweep",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 43676,
+      "title": "No Limit to Perfection - Part 1",
+      "wikiTitle": "No Limit to Perfection - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/No_Limit_to_Perfection_-_Part_1",
+      "trader": "Ref",
+      "prerequisites": "Professional - Part 3",
+      "requirements": ""
+    },
+    {
+      "id": 43678,
+      "title": "No Limit to Perfection - Part 2",
+      "wikiTitle": "No Limit to Perfection - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/No_Limit_to_Perfection_-_Part_2",
+      "trader": "Ref",
+      "prerequisites": "No Limit to Perfection - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 43679,
+      "title": "No Limit to Perfection - Part 3",
+      "wikiTitle": "No Limit to Perfection - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/No_Limit_to_Perfection_-_Part_3",
+      "trader": "Ref",
+      "prerequisites": "No Limit to Perfection - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 43680,
+      "title": "No Limit to Perfection - Part 4",
+      "wikiTitle": "No Limit to Perfection - Part 4",
+      "url": "https://escapefromtarkov.fandom.com/wiki/No_Limit_to_Perfection_-_Part_4",
+      "trader": "Ref",
+      "prerequisites": "No Limit to Perfection - Part 3",
+      "requirements": ""
+    },
+    {
+      "id": 43681,
+      "title": "No Limit to Perfection - Part 5",
+      "wikiTitle": "No Limit to Perfection - Part 5",
+      "url": "https://escapefromtarkov.fandom.com/wiki/No_Limit_to_Perfection_-_Part_5",
+      "trader": "Ref",
+      "prerequisites": "No Limit to Perfection - Part 4",
+      "requirements": ""
+    },
+    {
+      "id": 43682,
+      "title": "No Limit to Perfection - Part 6",
+      "wikiTitle": "No Limit to Perfection - Part 6",
+      "url": "https://escapefromtarkov.fandom.com/wiki/No_Limit_to_Perfection_-_Part_6",
+      "trader": "Ref",
+      "prerequisites": "No Limit to Perfection - Part 5",
+      "requirements": ""
+    },
+    {
+      "id": 43683,
+      "title": "No Limit to Perfection - Part 7",
+      "wikiTitle": "No Limit to Perfection - Part 7",
+      "url": "https://escapefromtarkov.fandom.com/wiki/No_Limit_to_Perfection_-_Part_7",
+      "trader": "Ref",
+      "prerequisites": "No Limit to Perfection - Part 6",
+      "requirements": ""
+    },
+    {
+      "id": 43684,
+      "title": "No Limit to Perfection - Part 8",
+      "wikiTitle": "No Limit to Perfection - Part 8",
+      "url": "https://escapefromtarkov.fandom.com/wiki/No_Limit_to_Perfection_-_Part_8",
+      "trader": "Ref",
+      "prerequisites": "No Limit to Perfection - Part 7",
+      "requirements": ""
+    },
+    {
+      "id": 43677,
+      "title": "No Limit to Perfection - Part 9",
+      "wikiTitle": "No Limit to Perfection - Part 9",
+      "url": "https://escapefromtarkov.fandom.com/wiki/No_Limit_to_Perfection_-_Part_9",
+      "trader": "Ref",
+      "prerequisites": "No Limit to Perfection - Part 8",
+      "requirements": ""
+    },
+    {
+      "id": 21348,
+      "title": "No Place for Renegades",
+      "wikiTitle": "No Place for Renegades",
+      "url": "https://escapefromtarkov.fandom.com/wiki/No_Place_for_Renegades",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 32096,
+      "title": "No Swiping",
+      "wikiTitle": "No Swiping",
+      "url": "https://escapefromtarkov.fandom.com/wiki/No_Swiping",
+      "trader": "Skier",
+      "prerequisites": "Burning RubberorSupplier",
+      "requirements": ""
+    },
+    {
+      "id": 14951,
+      "title": "Nostalgia",
+      "wikiTitle": "Nostalgia",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Nostalgia",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 32119,
+      "title": "Nothing Fishy About This",
+      "wikiTitle": "Nothing Fishy About This",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Nothing_Fishy_About_This",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 38118,
+      "title": "Offensive Reconnaissance",
+      "wikiTitle": "Offensive Reconnaissance",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Offensive_Reconnaissance",
+      "trader": "Mechanic",
+      "prerequisites": "Hidden Layer",
+      "requirements": ""
+    },
+    {
+      "id": 44651,
+      "title": "Oil Change",
+      "wikiTitle": "Oil Change",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Oil_Change",
+      "trader": "Prapor",
+      "prerequisites": "See requirements",
+      "requirements": "Hand over the hard drives from compartment C-1 on Icebreaker to Mechanic in the Boreas story chapter."
+    },
+    {
+      "id": 6179,
+      "title": "Oil Run",
+      "wikiTitle": "Oil Run",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Oil_Run",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 34350,
+      "title": "Old Patterns",
+      "wikiTitle": "Old Patterns",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Old_Patterns",
+      "trader": "Ragman",
+      "prerequisites": "Combat Proven",
+      "requirements": ""
+    },
+    {
+      "id": 34615,
+      "title": "One Less Loose End",
+      "wikiTitle": "One Less Loose End",
+      "url": "https://escapefromtarkov.fandom.com/wiki/One_Less_Loose_End",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 7475,
+      "title": "One-Way Ticket",
+      "wikiTitle": "One-Way Ticket",
+      "url": "https://escapefromtarkov.fandom.com/wiki/One-Way_Ticket",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6328,
+      "title": "Operation Aquarius",
+      "wikiTitle": "Operation Aquarius",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Operation_Aquarius",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37823,
+      "title": "Order From Outside",
+      "wikiTitle": "Order From Outside",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Order_From_Outside",
+      "trader": "Lightkeeper",
+      "prerequisites": "Accept Inevitable Response",
+      "requirements": ""
+    },
+    {
+      "id": 23964,
+      "title": "Our Own Land",
+      "wikiTitle": "Our Own Land",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Our_Own_Land",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 6778,
+      "title": "Out of Curiosity",
+      "wikiTitle": "Out of Curiosity",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Out_of_Curiosity",
+      "trader": "Therapist",
+      "prerequisites": "Accept Chemical - Part 4",
+      "requirements": ""
+    },
+    {
+      "id": 23938,
+      "title": "Overpopulation",
+      "wikiTitle": "Overpopulation",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Overpopulation",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 30499,
+      "title": "Paramedic",
+      "wikiTitle": "Paramedic",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Paramedic",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 36667,
+      "title": "Passion for Ergonomics",
+      "wikiTitle": "Passion for Ergonomics",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Passion_for_Ergonomics",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10272,
+      "title": "Pathfinder",
+      "wikiTitle": "Pathfinder",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Pathfinder",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 46463,
+      "title": "Pay the Fare!",
+      "wikiTitle": "Pay the Fare!",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Pay_the_Fare!",
+      "trader": "Ragman",
+      "prerequisites": "See requirements",
+      "requirements": "Tell Mechanic that you found transport to the icebreaker in the Boreas story chapter."
+    },
+    {
+      "id": 28530,
+      "title": "Payback",
+      "wikiTitle": "Payback",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Payback",
+      "trader": "Lightkeeper",
+      "prerequisites": "Return the Favor (+10hr)",
+      "requirements": ""
+    },
+    {
+      "id": 44589,
+      "title": "Peaceful Atom",
+      "wikiTitle": "Peaceful Atom",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Peaceful_Atom",
+      "trader": "Peacekeeper",
+      "prerequisites": "Oil Change",
+      "requirements": ""
+    },
+    {
+      "id": 12379,
+      "title": "Peacekeeping Mission",
+      "wikiTitle": "Peacekeeping Mission",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Peacekeeping_Mission",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21465,
+      "title": "Pest Control",
+      "wikiTitle": "Pest Control",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Pest_Control",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 30498,
+      "title": "Pets Won't Need It",
+      "wikiTitle": "Pets Won't Need It",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Pets_Won't_Need_It",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6417,
+      "title": "Pharmacist",
+      "wikiTitle": "Pharmacist",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Pharmacist",
+      "trader": "Therapist",
+      "prerequisites": "First in LineorOperation AquariusorSupply Plans",
+      "requirements": ""
+    },
+    {
+      "id": 9598,
+      "title": "Playing the Market",
+      "wikiTitle": "Playing the Market",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Playing_the_Market",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6745,
+      "title": "Polikhim Hobo",
+      "wikiTitle": "Polikhim Hobo",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Polikhim_Hobo",
+      "trader": "Skier",
+      "prerequisites": "Burning RubberorSupplier",
+      "requirements": ""
+    },
+    {
+      "id": 27667,
+      "title": "Population Census",
+      "wikiTitle": "Population Census",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Population_Census",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34621,
+      "title": "Possessor",
+      "wikiTitle": "Possessor",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Possessor",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6377,
+      "title": "Postman Pat - Part 1",
+      "wikiTitle": "Postman Pat - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Postman_Pat_-_Part_1",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6380,
+      "title": "Postman Pat - Part 2",
+      "wikiTitle": "Postman Pat - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Postman_Pat_-_Part_2",
+      "trader": "Therapist",
+      "prerequisites": "Accept Postman Pat - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 38316,
+      "title": "Postponed Reward",
+      "wikiTitle": "Postponed Reward",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Postponed_Reward",
+      "trader": "Ref",
+      "prerequisites": "Surprise Gift",
+      "requirements": ""
+    },
+    {
+      "id": 28067,
+      "title": "Power of Persuasion",
+      "wikiTitle": "Power of Persuasion",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Power_of_Persuasion",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 46664,
+      "title": "Preserve a Valuable Piece",
+      "wikiTitle": "Preserve a Valuable Piece",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Preserve_a_Valuable_Piece",
+      "trader": "Lightkeeper",
+      "prerequisites": "Accept Cut Down to the Root",
+      "requirements": ""
+    },
+    {
+      "id": 46521,
+      "title": "Price for Information",
+      "wikiTitle": "Price for Information",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Price_for_Information",
+      "trader": "Lightkeeper",
+      "prerequisites": "Digital Puzzle",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 36682,
+      "title": "Private Club",
+      "wikiTitle": "Private Club",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Private_Club",
+      "trader": "Skier",
+      "prerequisites": "Burning RubberorSupplier",
+      "requirements": ""
+    },
+    {
+      "id": 43685,
+      "title": "Professional - Part 1",
+      "wikiTitle": "Professional - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Professional_-_Part_1",
+      "trader": "Ref",
+      "prerequisites": "Gladiator Doping - Part 4",
+      "requirements": ""
+    },
+    {
+      "id": 43686,
+      "title": "Professional - Part 2",
+      "wikiTitle": "Professional - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Professional_-_Part_2",
+      "trader": "Ref",
+      "prerequisites": "Professional - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 43687,
+      "title": "Professional - Part 3",
+      "wikiTitle": "Professional - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Professional_-_Part_3",
+      "trader": "Ref",
+      "prerequisites": "Professional - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 43241,
+      "title": "Professional Fitness - Part 1",
+      "wikiTitle": "Professional Fitness - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Professional_Fitness_-_Part_1",
+      "trader": "Ref",
+      "prerequisites": "Balancing - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 43243,
+      "title": "Professional Fitness - Part 2",
+      "wikiTitle": "Professional Fitness - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Professional_Fitness_-_Part_2",
+      "trader": "Ref",
+      "prerequisites": "Professional Fitness - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 38948,
+      "title": "Profit Retention",
+      "wikiTitle": "Profit Retention",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Profit_Retention",
+      "trader": "Skier",
+      "prerequisites": "A Life Lesson",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 38888,
+      "title": "Profitable Venture",
+      "wikiTitle": "Profitable Venture",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Profitable_Venture",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 34280,
+      "title": "Proper Comeback",
+      "wikiTitle": "Proper Comeback",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Proper_Comeback",
+      "trader": "Skier",
+      "prerequisites": "Camera, Action!",
+      "requirements": "This quest is only available to buyers of the \"Edge of Darkness\" edition of the game."
+    },
+    {
+      "id": 32092,
+      "title": "Properties All Around",
+      "wikiTitle": "Properties All Around",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Properties_All_Around",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37757,
+      "title": "Protect the Sky",
+      "wikiTitle": "Protect the Sky",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Protect_the_Sky",
+      "trader": "BTR Driver",
+      "prerequisites": "Battery Change",
+      "requirements": ""
+    },
+    {
+      "id": 36647,
+      "title": "Provide Viewership",
+      "wikiTitle": "Provide Viewership",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Provide_Viewership",
+      "trader": "Ref",
+      "prerequisites": "Accept Easy Money - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 28534,
+      "title": "Provocation",
+      "wikiTitle": "Provocation",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Provocation",
+      "trader": "Lightkeeper",
+      "prerequisites": "Payback (+10hr)",
+      "requirements": ""
+    },
+    {
+      "id": 12244,
+      "title": "Psycho Sniper",
+      "wikiTitle": "Psycho Sniper",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Psycho_Sniper",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 32250,
+      "title": "Pyramid Scheme",
+      "wikiTitle": "Pyramid Scheme",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Pyramid_Scheme",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34257,
+      "title": "Quality Standard",
+      "wikiTitle": "Quality Standard",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Quality_Standard",
+      "trader": "Therapist",
+      "prerequisites": "The Good Times - Part 1",
+      "requirements": "This quest is only available to buyers of the \"Edge of Darkness\" edition of the game."
+    },
+    {
+      "id": 9603,
+      "title": "Rat Hunting",
+      "wikiTitle": "Rat Hunting",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Rat_Hunting",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 25802,
+      "title": "Reconnaissance",
+      "wikiTitle": "Reconnaissance",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Reconnaissance",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14957,
+      "title": "Regulated Materials",
+      "wikiTitle": "Regulated Materials",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Regulated_Materials",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14968,
+      "title": "Reserve (quest)",
+      "wikiTitle": "Reserve (quest)",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Reserve_(quest)",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 24484,
+      "title": "Reserve Expert",
+      "wikiTitle": "Reserve Expert",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Reserve_Expert",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 28502,
+      "title": "Return the Favor",
+      "wikiTitle": "Return the Favor",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Return_the_Favor",
+      "trader": "Lightkeeper",
+      "prerequisites": "Snatch (+10hr)",
+      "requirements": ""
+    },
+    {
+      "id": 45647,
+      "title": "Reverse Gear",
+      "wikiTitle": "Reverse Gear",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Reverse_Gear",
+      "trader": "Prapor",
+      "prerequisites": "Know Your Enemy (+0-2hr)",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 23939,
+      "title": "Revision - Lighthouse",
+      "wikiTitle": "Revision - Lighthouse",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Revision_-_Lighthouse",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21372,
+      "title": "Revision - Reserve",
+      "wikiTitle": "Revision - Reserve",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Revision_-_Reserve",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 27696,
+      "title": "Revision - Streets of Tarkov",
+      "wikiTitle": "Revision - Streets of Tarkov",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Revision_-_Streets_of_Tarkov",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 45817,
+      "title": "Riding the Wave",
+      "wikiTitle": "Riding the Wave",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Riding_the_Wave",
+      "trader": "Ragman",
+      "prerequisites": "Reverse Gear",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 18975,
+      "title": "Rigged Game",
+      "wikiTitle": "Rigged Game",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Rigged_Game",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 28131,
+      "title": "Road Closed",
+      "wikiTitle": "Road Closed",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Road_Closed",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by USEC PMCs"
+    },
+    {
+      "id": 34619,
+      "title": "Rough Tarkov",
+      "wikiTitle": "Rough Tarkov",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Rough_Tarkov",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37720,
+      "title": "Route Deviation",
+      "wikiTitle": "Route Deviation",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Route_Deviation",
+      "trader": "Skier",
+      "prerequisites": "The Higher They Fly (+6hr)",
+      "requirements": ""
+    },
+    {
+      "id": 21409,
+      "title": "Safe Corridor",
+      "wikiTitle": "Safe Corridor",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Safe_Corridor",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 38931,
+      "title": "Safety Guarantee",
+      "wikiTitle": "Safety Guarantee",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Safety_Guarantee",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 19173,
+      "title": "Samples",
+      "wikiTitle": "Samples",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Samples",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6324,
+      "title": "Sanitary Standards",
+      "wikiTitle": "Sanitary Standards",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Sanitary_Standards",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 44465,
+      "title": "Saving Private Roman",
+      "wikiTitle": "Saving Private Roman",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Saving_Private_Roman",
+      "trader": "BTR Driver",
+      "prerequisites": "Stick to It",
+      "requirements": ""
+    },
+    {
+      "id": 31682,
+      "title": "Saving the Mole",
+      "wikiTitle": "Saving the Mole",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Saving_the_Mole",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 12254,
+      "title": "Scavenger",
+      "wikiTitle": "Scavenger",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Scavenger",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 46482,
+      "title": "Scope the Clearing",
+      "wikiTitle": "Scope the Clearing",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Scope_the_Clearing",
+      "trader": "Skier",
+      "prerequisites": "A Familiar Face...",
+      "requirements": ""
+    },
+    {
+      "id": 9607,
+      "title": "Scout",
+      "wikiTitle": "Scout",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Scout",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 7471,
+      "title": "Scrap Metal",
+      "wikiTitle": "Scrap Metal",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Scrap_Metal",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 19941,
+      "title": "Search Mission",
+      "wikiTitle": "Search Mission",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Search_Mission",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 23852,
+      "title": "Seaside Vacation",
+      "wikiTitle": "Seaside Vacation",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Seaside_Vacation",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 46170,
+      "title": "Secret Message",
+      "wikiTitle": "Secret Message",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Secret_Message",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34620,
+      "title": "Secrets of Polikhim",
+      "wikiTitle": "Secrets of Polikhim",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Secrets_of_Polikhim",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37691,
+      "title": "Seizing the Initiative",
+      "wikiTitle": "Seizing the Initiative",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Seizing_the_Initiative",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 9601,
+      "title": "Semiconductor Crisis",
+      "wikiTitle": "Semiconductor Crisis",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Semiconductor_Crisis",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37955,
+      "title": "Sensory Analysis - Part 1",
+      "wikiTitle": "Sensory Analysis - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Sensory_Analysis_-_Part_1",
+      "trader": "Ragman",
+      "prerequisites": "Hidden Layer (+30min)",
+      "requirements": ""
+    },
+    {
+      "id": 38046,
+      "title": "Sensory Analysis - Part 2",
+      "wikiTitle": "Sensory Analysis - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Sensory_Analysis_-_Part_2",
+      "trader": "BTR Driver",
+      "prerequisites": "Accept Sensory Analysis - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 34275,
+      "title": "Serious Allegations",
+      "wikiTitle": "Serious Allegations",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Serious_Allegations",
+      "trader": "Skier",
+      "prerequisites": "Viewer",
+      "requirements": "This quest is only available to buyers of the \"Edge of Darkness\" edition of the game."
+    },
+    {
+      "id": 41497,
+      "title": "Setting Priorities",
+      "wikiTitle": "Setting Priorities",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Setting_Priorities",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 12373,
+      "title": "Setup",
+      "wikiTitle": "Setup",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Setup",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10264,
+      "title": "Sew it Good - Part 1",
+      "wikiTitle": "Sew it Good - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Sew_it_Good_-_Part_1",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10267,
+      "title": "Sew it Good - Part 2",
+      "wikiTitle": "Sew it Good - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Sew_it_Good_-_Part_2",
+      "trader": "Ragman",
+      "prerequisites": "Sew it Good - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 10265,
+      "title": "Sew it Good - Part 3",
+      "wikiTitle": "Sew it Good - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Sew_it_Good_-_Part_3",
+      "trader": "Ragman",
+      "prerequisites": "Sew it Good - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 10266,
+      "title": "Sew it Good - Part 4",
+      "wikiTitle": "Sew it Good - Part 4",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Sew_it_Good_-_Part_4",
+      "trader": "Ragman",
+      "prerequisites": "Sew it Good - Part 3",
+      "requirements": ""
+    },
+    {
+      "id": 37911,
+      "title": "Shady Contractor",
+      "wikiTitle": "Shady Contractor",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Shady_Contractor",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6394,
+      "title": "Shaking Up the Teller",
+      "wikiTitle": "Shaking Up the Teller",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Shaking_Up_the_Teller",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 45747,
+      "title": "Sheep in Wolf's Clothing",
+      "wikiTitle": "Sheep in Wolf's Clothing",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Sheep_in_Wolf's_Clothing",
+      "trader": "Fence",
+      "prerequisites": "Forbidden Knowledge",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 36715,
+      "title": "Shipment Tracking",
+      "wikiTitle": "Shipment Tracking",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Shipment_Tracking",
+      "trader": "Therapist",
+      "prerequisites": "First in LineorOperation AquariusorSupply Plans",
+      "requirements": ""
+    },
+    {
+      "id": 37680,
+      "title": "Shipping Delay - Part 1",
+      "wikiTitle": "Shipping Delay - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Shipping_Delay_-_Part_1",
+      "trader": "Prapor",
+      "prerequisites": "Accept A Helping Hand",
+      "requirements": ""
+    },
+    {
+      "id": 37688,
+      "title": "Shipping Delay - Part 2",
+      "wikiTitle": "Shipping Delay - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Shipping_Delay_-_Part_2",
+      "trader": "BTR Driver",
+      "prerequisites": "Accept A Helping Hand",
+      "requirements": ""
+    },
+    {
+      "id": 12243,
+      "title": "Shooter Born in Heaven",
+      "wikiTitle": "Shooter Born in Heaven",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Shooter_Born_in_Heaven",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 31679,
+      "title": "Shooting Cans",
+      "wikiTitle": "Shooting Cans",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Shooting_Cans",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6181,
+      "title": "Shootout Picnic",
+      "wikiTitle": "Shootout Picnic",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Shootout_Picnic",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6187,
+      "title": "Shortage",
+      "wikiTitle": "Shortage",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Shortage",
+      "trader": "Therapist",
+      "prerequisites": "First in LineorOperation AquariusorSupply Plans",
+      "requirements": ""
+    },
+    {
+      "id": 12238,
+      "title": "Silent Caliber",
+      "wikiTitle": "Silent Caliber",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Silent_Caliber",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37763,
+      "title": "Simple Side Job",
+      "wikiTitle": "Simple Side Job",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Simple_Side_Job",
+      "trader": "Lightkeeper",
+      "prerequisites": "Accept Swift Retribution",
+      "requirements": ""
+    },
+    {
+      "id": 46580,
+      "title": "Sisyphus",
+      "wikiTitle": "Sisyphus",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Sisyphus",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 28124,
+      "title": "Slaughterhouse",
+      "wikiTitle": "Slaughterhouse",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Slaughterhouse",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34298,
+      "title": "Small Business - Part 1",
+      "wikiTitle": "Small Business - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Small_Business_-_Part_1",
+      "trader": "Fence",
+      "prerequisites": "Immunity",
+      "requirements": ""
+    },
+    {
+      "id": 34379,
+      "title": "Small Business - Part 2",
+      "wikiTitle": "Small Business - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Small_Business_-_Part_2",
+      "trader": "Fence",
+      "prerequisites": "Small Business - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 34381,
+      "title": "Small Business - Part 3",
+      "wikiTitle": "Small Business - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Small_Business_-_Part_3",
+      "trader": "Fence",
+      "prerequisites": "Small Business - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 12252,
+      "title": "Small Things, Big Help",
+      "wikiTitle": "Small Things, Big Help",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Small_Things%2C_Big_Help",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 28398,
+      "title": "Snatch",
+      "wikiTitle": "Snatch",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Snatch",
+      "trader": "Lightkeeper",
+      "prerequisites": "Missing Informant (+10hr)",
+      "requirements": ""
+    },
+    {
+      "id": 34873,
+      "title": "Special Comms",
+      "wikiTitle": "Special Comms",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Special_Comms",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21803,
+      "title": "Special Equipment",
+      "wikiTitle": "Special Equipment",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Special_Equipment",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34306,
+      "title": "Special Offer",
+      "wikiTitle": "Special Offer",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Special_Offer",
+      "trader": "Ragman",
+      "prerequisites": "Circulate",
+      "requirements": ""
+    },
+    {
+      "id": 40207,
+      "title": "Special Order",
+      "wikiTitle": "Special Order",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Special_Order",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 28572,
+      "title": "Spotter",
+      "wikiTitle": "Spotter",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Spotter",
+      "trader": "Lightkeeper",
+      "prerequisites": "Following the Bread Crumbs (+10hr)",
+      "requirements": ""
+    },
+    {
+      "id": 37746,
+      "title": "Stabilize Business",
+      "wikiTitle": "Stabilize Business",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Stabilize_Business",
+      "trader": "Ragman",
+      "prerequisites": "Ask for Directions",
+      "requirements": ""
+    },
+    {
+      "id": 45798,
+      "title": "Stay Clear of Blast Zone",
+      "wikiTitle": "Stay Clear of Blast Zone",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Stay_Clear_of_Blast_Zone",
+      "trader": "Jaeger",
+      "prerequisites": "Accept Desperate Assault",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 32182,
+      "title": "Steady Signal",
+      "wikiTitle": "Steady Signal",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Steady_Signal",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37739,
+      "title": "Stick in the Wheel",
+      "wikiTitle": "Stick in the Wheel",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Stick_in_the_Wheel",
+      "trader": "Prapor",
+      "prerequisites": "Half-Empty",
+      "requirements": ""
+    },
+    {
+      "id": 44453,
+      "title": "Stick to It",
+      "wikiTitle": "Stick to It",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Stick_to_It",
+      "trader": "BTR Driver",
+      "prerequisites": "See requirements",
+      "requirements": "To gain access to this quest, you must first do the following on Icebreaker:"
+    },
+    {
+      "id": 46564,
+      "title": "Stimulating Demand",
+      "wikiTitle": "Stimulating Demand",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Stimulating_Demand",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6250,
+      "title": "Stirrup",
+      "wikiTitle": "Stirrup",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Stirrup",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 25800,
+      "title": "Stray Dogs",
+      "wikiTitle": "Stray Dogs",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Stray_Dogs",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 43657,
+      "title": "Superhuman",
+      "wikiTitle": "Superhuman",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Superhuman",
+      "trader": "Ref",
+      "prerequisites": "All for the Show - Major Sponsor",
+      "requirements": ""
+    },
+    {
+      "id": 10273,
+      "title": "Supervisor",
+      "wikiTitle": "Supervisor",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Supervisor",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10753,
+      "title": "Supplements",
+      "wikiTitle": "Supplements",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Supplements",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 6193,
+      "title": "Supplier",
+      "wikiTitle": "Supplier",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Supplier",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6418,
+      "title": "Supply Plans",
+      "wikiTitle": "Supply Plans",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Supply_Plans",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21404,
+      "title": "Surplus Goods",
+      "wikiTitle": "Surplus Goods",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Surplus_Goods",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34016,
+      "title": "Surprise",
+      "wikiTitle": "Surprise",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Surprise",
+      "trader": "Ref",
+      "prerequisites": "Balancing - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 38313,
+      "title": "Surprise Gift",
+      "wikiTitle": "Surprise Gift",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Surprise_Gift",
+      "trader": "Lightkeeper",
+      "prerequisites": "Accept Between Two Fires",
+      "requirements": ""
+    },
+    {
+      "id": 28147,
+      "title": "Surveillance",
+      "wikiTitle": "Surveillance",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Surveillance",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21758,
+      "title": "Swift",
+      "wikiTitle": "Swift",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Swift",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37718,
+      "title": "Swift Retribution",
+      "wikiTitle": "Swift Retribution",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Swift_Retribution",
+      "trader": "BTR Driver",
+      "prerequisites": "Hot Wheels",
+      "requirements": ""
+    },
+    {
+      "id": 18904,
+      "title": "Tarkov-Style Diplomacy",
+      "wikiTitle": "Tarkov-Style Diplomacy",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Tarkov-Style_Diplomacy",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 19198,
+      "title": "TerraGroup Employee",
+      "wikiTitle": "TerraGroup Employee",
+      "url": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_Employee",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 17448,
+      "title": "Textile - Part 1",
+      "wikiTitle": "Textile - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_1",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 17482,
+      "title": "Textile - Part 2",
+      "wikiTitle": "Textile - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_2",
+      "trader": "Ragman",
+      "prerequisites": "Textile - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 38903,
+      "title": "The Art of Explosion",
+      "wikiTitle": "The Art of Explosion",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Art_of_Explosion",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 18570,
+      "title": "The Bunker",
+      "wikiTitle": "The Bunker",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Bunker",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21753,
+      "title": "The Choice",
+      "wikiTitle": "The Choice",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Choice",
+      "trader": "Fence",
+      "prerequisites": "The Punisher - Part 6",
+      "requirements": ""
+    },
+    {
+      "id": 21760,
+      "title": "The Cleaner",
+      "wikiTitle": "The Cleaner",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Cleaner",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21768,
+      "title": "The Courier",
+      "wikiTitle": "The Courier",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Courier",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 7474,
+      "title": "The Cult",
+      "wikiTitle": "The Cult",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Cult",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 27694,
+      "title": "The Delicious Sausage",
+      "wikiTitle": "The Delicious Sausage",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Delicious_Sausage",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 30527,
+      "title": "The Door",
+      "wikiTitle": "The Door",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Door",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6194,
+      "title": "The Extortionist",
+      "wikiTitle": "The Extortionist",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Extortionist",
+      "trader": "Skier",
+      "prerequisites": "Burning RubberorSupplier",
+      "requirements": ""
+    },
+    {
+      "id": 34255,
+      "title": "The Good Times - Part 1",
+      "wikiTitle": "The Good Times - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Good_Times_-_Part_1",
+      "trader": "Prapor",
+      "prerequisites": "See requirements",
+      "requirements": "This quest is only available to buyers of the \"Edge of Darkness\" edition of the game."
+    },
+    {
+      "id": 34265,
+      "title": "The Good Times - Part 2",
+      "wikiTitle": "The Good Times - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Good_Times_-_Part_2",
+      "trader": "Prapor",
+      "prerequisites": "Airmail",
+      "requirements": "This quest is only available to buyers of the \"Edge of Darkness\" edition of the game."
+    },
+    {
+      "id": 12382,
+      "title": "The Guide",
+      "wikiTitle": "The Guide",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Guide",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 23849,
+      "title": "The Hermit",
+      "wikiTitle": "The Hermit",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Hermit",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37719,
+      "title": "The Higher They Fly",
+      "wikiTitle": "The Higher They Fly",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Higher_They_Fly",
+      "trader": "Skier",
+      "prerequisites": "Swift RetributionorInevitable Response",
+      "requirements": ""
+    },
+    {
+      "id": 28135,
+      "title": "The Huntsman Path - Administrator",
+      "wikiTitle": "The Huntsman Path - Administrator",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Administrator",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14946,
+      "title": "The Huntsman Path - Angry Watchman",
+      "wikiTitle": "The Huntsman Path - Angry Watchman",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Angry_Watchman",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 30510,
+      "title": "The Huntsman Path - Big Game",
+      "wikiTitle": "The Huntsman Path - Big Game",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Big_Game",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 46169,
+      "title": "The Huntsman Path - Control",
+      "wikiTitle": "The Huntsman Path - Control",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Control",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14942,
+      "title": "The Huntsman Path - Controller",
+      "wikiTitle": "The Huntsman Path - Controller",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Controller",
+      "trader": "Jaeger",
+      "prerequisites": "The Survivalist Path - Tough Guy",
+      "requirements": ""
+    },
+    {
+      "id": 32542,
+      "title": "The Huntsman Path - Crooked Cop",
+      "wikiTitle": "The Huntsman Path - Crooked Cop",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Crooked_Cop",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14947,
+      "title": "The Huntsman Path - Eraser",
+      "wikiTitle": "The Huntsman Path - Eraser",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Eraser",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21467,
+      "title": "The Huntsman Path - Factory Chief",
+      "wikiTitle": "The Huntsman Path - Factory Chief",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Factory_Chief",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14941,
+      "title": "The Huntsman Path - Forest Cleaning",
+      "wikiTitle": "The Huntsman Path - Forest Cleaning",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Forest_Cleaning",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14945,
+      "title": "The Huntsman Path - Justice",
+      "wikiTitle": "The Huntsman Path - Justice",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Justice",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14948,
+      "title": "The Huntsman Path - Liberation",
+      "wikiTitle": "The Huntsman Path - Liberation",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Liberation",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 23922,
+      "title": "The Huntsman Path - Outcasts",
+      "wikiTitle": "The Huntsman Path - Outcasts",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Outcasts",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 21763,
+      "title": "The Huntsman Path - Relentless",
+      "wikiTitle": "The Huntsman Path - Relentless",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Relentless",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 19176,
+      "title": "The Huntsman Path - Sadist",
+      "wikiTitle": "The Huntsman Path - Sadist",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Sadist",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14938,
+      "title": "The Huntsman Path - Secured Perimeter",
+      "wikiTitle": "The Huntsman Path - Secured Perimeter",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Secured_Perimeter",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14943,
+      "title": "The Huntsman Path - Sellout",
+      "wikiTitle": "The Huntsman Path - Sellout",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Sellout",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14940,
+      "title": "The Huntsman Path - Trophy",
+      "wikiTitle": "The Huntsman Path - Trophy",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Trophy",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14944,
+      "title": "The Huntsman Path - Woods Keeper",
+      "wikiTitle": "The Huntsman Path - Woods Keeper",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Woods_Keeper",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34258,
+      "title": "The Invisible Hand",
+      "wikiTitle": "The Invisible Hand",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Invisible_Hand",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 10268,
+      "title": "The Key to Success",
+      "wikiTitle": "The Key to Success",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Key_to_Success",
+      "trader": "Ragman",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 37768,
+      "title": "The Price of Independence",
+      "wikiTitle": "The Price of Independence",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Price_of_Independence",
+      "trader": "BTR Driver",
+      "prerequisites": "Discombobulate",
+      "requirements": ""
+    },
+    {
+      "id": 21888,
+      "title": "The Punisher - Part 1",
+      "wikiTitle": "The Punisher - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_1",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 6402,
+      "title": "The Punisher - Part 2",
+      "wikiTitle": "The Punisher - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_2",
+      "trader": "Prapor",
+      "prerequisites": "The Punisher - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 6404,
+      "title": "The Punisher - Part 3",
+      "wikiTitle": "The Punisher - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_3",
+      "trader": "Prapor",
+      "prerequisites": "The Punisher - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 6405,
+      "title": "The Punisher - Part 4",
+      "wikiTitle": "The Punisher - Part 4",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_4",
+      "trader": "Prapor",
+      "prerequisites": "The Punisher - Part 3",
+      "requirements": ""
+    },
+    {
+      "id": 6530,
+      "title": "The Punisher - Part 5",
+      "wikiTitle": "The Punisher - Part 5",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_5",
+      "trader": "Prapor",
+      "prerequisites": "The Punisher - Part 4",
+      "requirements": ""
+    },
+    {
+      "id": 6532,
+      "title": "The Punisher - Part 6",
+      "wikiTitle": "The Punisher - Part 6",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_6",
+      "trader": "Prapor",
+      "prerequisites": "The Punisher - Part 5",
+      "requirements": ""
+    },
+    {
+      "id": 30502,
+      "title": "The Secret Recipe",
+      "wikiTitle": "The Secret Recipe",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Secret_Recipe",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 32178,
+      "title": "The Secret to Productivity",
+      "wikiTitle": "The Secret to Productivity",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Secret_to_Productivity",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 14934,
+      "title": "The Survivalist Path - Cold Blooded",
+      "wikiTitle": "The Survivalist Path - Cold Blooded",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Cold_Blooded",
+      "trader": "Jaeger",
+      "prerequisites": "The Huntsman Path - Controller",
+      "requirements": ""
+    },
+    {
+      "id": 14936,
+      "title": "The Survivalist Path - Eagle-Owl",
+      "wikiTitle": "The Survivalist Path - Eagle-Owl",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Eagle-Owl",
+      "trader": "Jaeger",
+      "prerequisites": "The Survivalist Path - Cold Blooded",
+      "requirements": ""
+    },
+    {
+      "id": 24686,
+      "title": "The Survivalist Path - Junkie",
+      "wikiTitle": "The Survivalist Path - Junkie",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Junkie",
+      "trader": "Jaeger",
+      "prerequisites": "The Survivalist Path - Eagle-Owl",
+      "requirements": ""
+    },
+    {
+      "id": 14929,
+      "title": "The Survivalist Path - Thrifty",
+      "wikiTitle": "The Survivalist Path - Thrifty",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Thrifty",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 14933,
+      "title": "The Survivalist Path - Tough Guy",
+      "wikiTitle": "The Survivalist Path - Tough Guy",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Tough_Guy",
+      "trader": "Jaeger",
+      "prerequisites": "The Survivalist Path - Wounded Beast",
+      "requirements": ""
+    },
+    {
+      "id": 14928,
+      "title": "The Survivalist Path - Unprotected but Dangerous",
+      "wikiTitle": "The Survivalist Path - Unprotected but Dangerous",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Unprotected_but_Dangerous",
+      "trader": "Jaeger",
+      "prerequisites": "The Survivalist Path - Zhivchik",
+      "requirements": ""
+    },
+    {
+      "id": 14932,
+      "title": "The Survivalist Path - Wounded Beast",
+      "wikiTitle": "The Survivalist Path - Wounded Beast",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Wounded_Beast",
+      "trader": "Jaeger",
+      "prerequisites": "The Survivalist Path - Unprotected but Dangerous",
+      "requirements": ""
+    },
+    {
+      "id": 14931,
+      "title": "The Survivalist Path - Zhivchik",
+      "wikiTitle": "The Survivalist Path - Zhivchik",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Zhivchik",
+      "trader": "Jaeger",
+      "prerequisites": "The Survivalist Path - Thrifty",
+      "requirements": ""
+    },
+    {
+      "id": 38054,
+      "title": "The Tarkov Butcher",
+      "wikiTitle": "The Tarkov Butcher",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Butcher",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 12240,
+      "title": "The Tarkov Import",
+      "wikiTitle": "The Tarkov Import",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Import",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 11793,
+      "title": "The Tarkov Shooter - Part 1",
+      "wikiTitle": "The Tarkov Shooter - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Shooter_-_Part_1",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 11795,
+      "title": "The Tarkov Shooter - Part 2",
+      "wikiTitle": "The Tarkov Shooter - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Shooter_-_Part_2",
+      "trader": "Jaeger",
+      "prerequisites": "The Tarkov Shooter - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 11798,
+      "title": "The Tarkov Shooter - Part 3",
+      "wikiTitle": "The Tarkov Shooter - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Shooter_-_Part_3",
+      "trader": "Jaeger",
+      "prerequisites": "The Tarkov Shooter - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 11800,
+      "title": "The Tarkov Shooter - Part 4",
+      "wikiTitle": "The Tarkov Shooter - Part 4",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Shooter_-_Part_4",
+      "trader": "Jaeger",
+      "prerequisites": "The Tarkov Shooter - Part 3",
+      "requirements": ""
+    },
+    {
+      "id": 11802,
+      "title": "The Tarkov Shooter - Part 5",
+      "wikiTitle": "The Tarkov Shooter - Part 5",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Shooter_-_Part_5",
+      "trader": "Jaeger",
+      "prerequisites": "The Tarkov Shooter - Part 4",
+      "requirements": ""
+    },
+    {
+      "id": 11803,
+      "title": "The Tarkov Shooter - Part 6",
+      "wikiTitle": "The Tarkov Shooter - Part 6",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Shooter_-_Part_6",
+      "trader": "Jaeger",
+      "prerequisites": "The Tarkov Shooter - Part 5",
+      "requirements": ""
+    },
+    {
+      "id": 11804,
+      "title": "The Tarkov Shooter - Part 7",
+      "wikiTitle": "The Tarkov Shooter - Part 7",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Shooter_-_Part_7",
+      "trader": "Jaeger",
+      "prerequisites": "The Tarkov Shooter - Part 6",
+      "requirements": ""
+    },
+    {
+      "id": 35205,
+      "title": "The Walls Have Eyes",
+      "wikiTitle": "The Walls Have Eyes",
+      "url": "https://escapefromtarkov.fandom.com/wiki/The_Walls_Have_Eyes",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 34459,
+      "title": "Thirsty - Breadwinner",
+      "wikiTitle": "Thirsty - Breadwinner",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Thirsty_-_Breadwinner",
+      "trader": "Skier",
+      "prerequisites": "Thirsty - Hounds",
+      "requirements": ""
+    },
+    {
+      "id": 34462,
+      "title": "Thirsty - Delivery",
+      "wikiTitle": "Thirsty - Delivery",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Thirsty_-_Delivery",
+      "trader": "Skier",
+      "prerequisites": "Thirsty - Breadwinner",
+      "requirements": ""
+    },
+    {
+      "id": 34461,
+      "title": "Thirsty - Echo",
+      "wikiTitle": "Thirsty - Echo",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Thirsty_-_Echo",
+      "trader": "Therapist",
+      "prerequisites": "Thirsty - Delivery",
+      "requirements": ""
+    },
+    {
+      "id": 34458,
+      "title": "Thirsty - Hounds",
+      "wikiTitle": "Thirsty - Hounds",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Thirsty_-_Hounds",
+      "trader": "Jaeger",
+      "prerequisites": "See requirements",
+      "requirements": "Reach Loyalty Level 2 with Jaeger, Skier and Therapist."
+    },
+    {
+      "id": 34481,
+      "title": "Thirsty - Secrets",
+      "wikiTitle": "Thirsty - Secrets",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Thirsty_-_Secrets",
+      "trader": "Therapist",
+      "prerequisites": "Thirsty - Echo (+12-13hr)",
+      "requirements": ""
+    },
+    {
+      "id": 38172,
+      "title": "This Tape Sucks",
+      "wikiTitle": "This Tape Sucks",
+      "url": "https://escapefromtarkov.fandom.com/wiki/This_Tape_Sucks",
+      "trader": "Therapist",
+      "prerequisites": "Offensive Reconnaissance",
+      "requirements": ""
+    },
+    {
+      "id": 7470,
+      "title": "Tigr Safari",
+      "wikiTitle": "Tigr Safari",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Tigr_Safari",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by USEC PMCs."
+    },
+    {
+      "id": 34040,
+      "title": "To Great Heights! - Part 1",
+      "wikiTitle": "To Great Heights! - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_1",
+      "trader": "Ref",
+      "prerequisites": "Professional Fitness - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 34041,
+      "title": "To Great Heights! - Part 2",
+      "wikiTitle": "To Great Heights! - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_2",
+      "trader": "Ref",
+      "prerequisites": "To Great Heights! - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 34070,
+      "title": "To Great Heights! - Part 3",
+      "wikiTitle": "To Great Heights! - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_3",
+      "trader": "Ref",
+      "prerequisites": "To Great Heights! - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 34073,
+      "title": "To Great Heights! - Part 4",
+      "wikiTitle": "To Great Heights! - Part 4",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_4",
+      "trader": "Ref",
+      "prerequisites": "To Great Heights! - Part 3",
+      "requirements": ""
+    },
+    {
+      "id": 34077,
+      "title": "To Great Heights! - Part 5",
+      "wikiTitle": "To Great Heights! - Part 5",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_5",
+      "trader": "Ref",
+      "prerequisites": "To Great Heights! - Part 4",
+      "requirements": ""
+    },
+    {
+      "id": 43240,
+      "title": "To Great Heights! - Part 6",
+      "wikiTitle": "To Great Heights! - Part 6",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_6",
+      "trader": "Ref",
+      "prerequisites": "To Great Heights! - Part 5",
+      "requirements": ""
+    },
+    {
+      "id": 46520,
+      "title": "To the Light - A Time to Gather Stones",
+      "wikiTitle": "To the Light - A Time to Gather Stones",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_the_Light_-_A_Time_to_Gather_Stones",
+      "trader": "Mechanic",
+      "prerequisites": "To the Light - A Time to Throw Stones",
+      "requirements": ""
+    },
+    {
+      "id": 46518,
+      "title": "To the Light - A Time to Throw Stones",
+      "wikiTitle": "To the Light - A Time to Throw Stones",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_the_Light_-_A_Time_to_Throw_Stones",
+      "trader": "Mechanic",
+      "prerequisites": "To the Light - Bite the Dust",
+      "requirements": ""
+    },
+    {
+      "id": 46517,
+      "title": "To the Light - Bite the Dust",
+      "wikiTitle": "To the Light - Bite the Dust",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_the_Light_-_Bite_the_Dust",
+      "trader": "Peacekeeper",
+      "prerequisites": "To the Light - Fallen Bird",
+      "requirements": ""
+    },
+    {
+      "id": 46479,
+      "title": "To the Light - Clip Their Wings",
+      "wikiTitle": "To the Light - Clip Their Wings",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_the_Light_-_Clip_Their_Wings",
+      "trader": "Mechanic",
+      "prerequisites": "To the Light - False Call (+10-15min)",
+      "requirements": ""
+    },
+    {
+      "id": 46516,
+      "title": "To the Light - Dangerous Ambitions",
+      "wikiTitle": "To the Light - Dangerous Ambitions",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_the_Light_-_Dangerous_Ambitions",
+      "trader": "Mechanic",
+      "prerequisites": "To the Light - Fallen Bird",
+      "requirements": ""
+    },
+    {
+      "id": 46512,
+      "title": "To the Light - Fallen Bird",
+      "wikiTitle": "To the Light - Fallen Bird",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_the_Light_-_Fallen_Bird",
+      "trader": "Mechanic",
+      "prerequisites": "To the Light - Clip Their Wings",
+      "requirements": ""
+    },
+    {
+      "id": 46465,
+      "title": "To the Light - False Call",
+      "wikiTitle": "To the Light - False Call",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_the_Light_-_False_Call",
+      "trader": "Mechanic",
+      "prerequisites": "To the Light - Trust but Verify (+10-30min)",
+      "requirements": ""
+    },
+    {
+      "id": 28274,
+      "title": "To the Light - Getting Acquainted",
+      "wikiTitle": "To the Light - Getting Acquainted",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_the_Light_-_Getting_Acquainted",
+      "trader": "Mechanic",
+      "prerequisites": "To the Light - The Other Side",
+      "requirements": ""
+    },
+    {
+      "id": 46555,
+      "title": "To the Light - Someone Called?",
+      "wikiTitle": "To the Light - Someone Called?",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_the_Light_-_Someone_Called%3F",
+      "trader": "Mechanic",
+      "prerequisites": "To the Light - False Call",
+      "requirements": ""
+    },
+    {
+      "id": 46548,
+      "title": "To the Light - The Other Side",
+      "wikiTitle": "To the Light - The Other Side",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_the_Light_-_The_Other_Side",
+      "trader": "Mechanic",
+      "prerequisites": "To the Light - A Time to Gather Stones",
+      "requirements": ""
+    },
+    {
+      "id": 46439,
+      "title": "To the Light - Trust but Verify",
+      "wikiTitle": "To the Light - Trust but Verify",
+      "url": "https://escapefromtarkov.fandom.com/wiki/To_the_Light_-_Trust_but_Verify",
+      "trader": "Mechanic",
+      "prerequisites": "See requirements",
+      "requirements": "Ask Mechanic about the possibility of working with Lightkeeper after learning about the Terminal situation in the Tour story chapter."
+    },
+    {
+      "id": 25693,
+      "title": "Top Secret",
+      "wikiTitle": "Top Secret",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Top_Secret",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 7817,
+      "title": "Tracker",
+      "wikiTitle": "Tracker",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Tracker",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 24660,
+      "title": "Trophies",
+      "wikiTitle": "Trophies",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Trophies",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 28597,
+      "title": "Trouble in the Big City",
+      "wikiTitle": "Trouble in the Big City",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Trouble_in_the_Big_City",
+      "trader": "Lightkeeper",
+      "prerequisites": "Make an Impression (+10hr)",
+      "requirements": ""
+    },
+    {
+      "id": 45754,
+      "title": "Unanswered Calls",
+      "wikiTitle": "Unanswered Calls",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Unanswered_Calls",
+      "trader": "Therapist",
+      "prerequisites": "Accept Uninvited Guests - Part 1",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 45602,
+      "title": "Uninvited Guests - Part 1",
+      "wikiTitle": "Uninvited Guests - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Uninvited_Guests_-_Part_1",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 45609,
+      "title": "Uninvited Guests - Part 2",
+      "wikiTitle": "Uninvited Guests - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Uninvited_Guests_-_Part_2",
+      "trader": "BTR Driver",
+      "prerequisites": "Accept Uninvited Guests - Part 1",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 36687,
+      "title": "Unique Experience",
+      "wikiTitle": "Unique Experience",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Unique_Experience",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 27840,
+      "title": "Urban Medicine",
+      "wikiTitle": "Urban Medicine",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Urban_Medicine",
+      "trader": "Therapist",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 38146,
+      "title": "Vacate the Premises",
+      "wikiTitle": "Vacate the Premises",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Vacate_the_Premises",
+      "trader": "Ragman",
+      "prerequisites": "Offensive Reconnaissance",
+      "requirements": ""
+    },
+    {
+      "id": 34271,
+      "title": "Viewer",
+      "wikiTitle": "Viewer",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Viewer",
+      "trader": "Prapor",
+      "prerequisites": "Minute of Fame",
+      "requirements": "This quest is only available to buyers of the \"Edge of Darkness\" edition of the game."
+    },
+    {
+      "id": 10752,
+      "title": "Vitamins",
+      "wikiTitle": "Vitamins",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Vitamins",
+      "trader": "Skier",
+      "prerequisites": "",
+      "requirements": "This quest is only obtainable by BEAR PMCs."
+    },
+    {
+      "id": 44620,
+      "title": "War Never Changes",
+      "wikiTitle": "War Never Changes",
+      "url": "https://escapefromtarkov.fandom.com/wiki/War_Never_Changes",
+      "trader": "Therapist",
+      "prerequisites": "See requirements",
+      "requirements": "Hand over the hard drives from compartment C-1 on Icebreaker to Mechanic in the Boreas story chapter."
+    },
+    {
+      "id": 28149,
+      "title": "Watching You",
+      "wikiTitle": "Watching You",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Watching_You",
+      "trader": "Mechanic",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 7526,
+      "title": "Weapons Circulation",
+      "wikiTitle": "Weapons Circulation",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Weapons_Circulation",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 7723,
+      "title": "Wet Job - Part 1",
+      "wikiTitle": "Wet Job - Part 1",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_1",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 7822,
+      "title": "Wet Job - Part 2",
+      "wikiTitle": "Wet Job - Part 2",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_2",
+      "trader": "Peacekeeper",
+      "prerequisites": "Wet Job - Part 1",
+      "requirements": ""
+    },
+    {
+      "id": 7825,
+      "title": "Wet Job - Part 3",
+      "wikiTitle": "Wet Job - Part 3",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_3",
+      "trader": "Peacekeeper",
+      "prerequisites": "Wet Job - Part 2",
+      "requirements": ""
+    },
+    {
+      "id": 7826,
+      "title": "Wet Job - Part 4",
+      "wikiTitle": "Wet Job - Part 4",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_4",
+      "trader": "Peacekeeper",
+      "prerequisites": "Wet Job - Part 3",
+      "requirements": ""
+    },
+    {
+      "id": 7827,
+      "title": "Wet Job - Part 5",
+      "wikiTitle": "Wet Job - Part 5",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_5",
+      "trader": "Peacekeeper",
+      "prerequisites": "Wet Job - Part 4",
+      "requirements": ""
+    },
+    {
+      "id": 7367,
+      "title": "Wet Job - Part 6",
+      "wikiTitle": "Wet Job - Part 6",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_6",
+      "trader": "Peacekeeper",
+      "prerequisites": "Wet Job - Part 5",
+      "requirements": ""
+    },
+    {
+      "id": 45654,
+      "title": "What's in the Bag?",
+      "wikiTitle": "What's in the Bag?",
+      "url": "https://escapefromtarkov.fandom.com/wiki/What's_in_the_Bag%3F",
+      "trader": "Fence",
+      "prerequisites": "Key to Understanding (+1-2hr)",
+      "requirements": "Must be playing in the Seasonal mode."
+    },
+    {
+      "id": 6424,
+      "title": "What’s on the Flash Drive?",
+      "wikiTitle": "What’s on the Flash Drive?",
+      "url": "https://escapefromtarkov.fandom.com/wiki/What%E2%80%99s_on_the_Flash_Drive%3F",
+      "trader": "Skier",
+      "prerequisites": "Burning RubberorSupplier",
+      "requirements": ""
+    },
+    {
+      "id": 44607,
+      "title": "Wiring the Vessel",
+      "wikiTitle": "Wiring the Vessel",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Wiring_the_Vessel",
+      "trader": "Peacekeeper",
+      "prerequisites": "Peaceful Atom",
+      "requirements": ""
+    },
+    {
+      "id": 36775,
+      "title": "Work Smarter",
+      "wikiTitle": "Work Smarter",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Work_Smarter",
+      "trader": "Jaeger",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 28125,
+      "title": "Worst Job in the World",
+      "wikiTitle": "Worst Job in the World",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Worst_Job_in_the_World",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 27931,
+      "title": "You've Got Mail",
+      "wikiTitle": "You've Got Mail",
+      "url": "https://escapefromtarkov.fandom.com/wiki/You've_Got_Mail",
+      "trader": "Prapor",
+      "prerequisites": "",
+      "requirements": ""
+    },
+    {
+      "id": 28066,
+      "title": "Your Car Needs a Service",
+      "wikiTitle": "Your Car Needs a Service",
+      "url": "https://escapefromtarkov.fandom.com/wiki/Your_Car_Needs_a_Service",
+      "trader": "Peacekeeper",
+      "prerequisites": "",
+      "requirements": ""
+    }
+  ]
+}

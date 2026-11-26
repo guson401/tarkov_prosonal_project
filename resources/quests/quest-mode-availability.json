@@ -1,0 +1,15 @@
+{
+  "source": "Tarkov.dev mode-specific task datasets",
+  "sourceUrls": [
+    "https://json.tarkov.dev/pve/tasks",
+    "https://json.tarkov.dev/regular/tasks"
+  ],
+  "fetchedAt": "2026-11-27",
+  "pveOnly": [],
+  "pvpOnly": [
+    "new_beginning_(prestige_1)",
+    "new_beginning_(prestige_2)",
+    "new_beginning_(prestige_3)",
+    "new_beginning_(prestige_4)"
+  ]
+}

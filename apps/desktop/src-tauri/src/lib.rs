@@ -13,9 +13,16 @@ pub fn run() {
             sql: include_str!("migrations/002_profile_skills.sql"),
             kind: tauri_plugin_sql::MigrationKind::Up,
         },
+        tauri_plugin_sql::Migration {
+            version: 3,
+            description: "profile_experience",
+            sql: include_str!("migrations/003_profile_experience.sql"),
+            kind: tauri_plugin_sql::MigrationKind::Up,
+        },
     ];
 
     tauri::Builder::default()
+        .plugin(tauri_plugin_opener::init())
         .plugin(
             tauri_plugin_sql::Builder::default()
                 .add_migrations("sqlite:tarkov_companion.db", migrations)

@@ -6,6 +6,30 @@
   overflow-y: auto;
 }
 
+.sidebar,
+.topbar {
+  --font-scale: 1;
+}
+
+.sidebar-toggle {
+  position: absolute;
+  top: 27px;
+  right: 11px;
+  width: 28px;
+  height: 28px;
+  display: grid;
+  place-items: center;
+  border: 1px solid #30342b;
+  background: #1b1f19;
+  color: #9ba886;
+  cursor: pointer;
+}
+
+.sidebar-toggle:hover {
+  border-color: #66764c;
+  color: #d3dfa9;
+}
+
 .main-area {
   margin-left: 238px;
 }
@@ -19,5 +43,71 @@
 @media (max-width: 760px) {
   .main-area {
     margin-left: 65px;
+  }
+}
+
+.app-shell.sidebar-collapsed .sidebar {
+  width: 72px;
+  flex-basis: 72px;
+  padding: 98px 8px 14px;
+  align-items: center;
+}
+
+.app-shell.sidebar-collapsed .brand {
+  position: absolute;
+  top: 12px;
+  left: 18px;
+  padding: 0;
+}
+
+.app-shell.sidebar-collapsed .brand > div:last-child,
+.app-shell.sidebar-collapsed .sidebar-label,
+.app-shell.sidebar-collapsed .nav-item span,
+.app-shell.sidebar-collapsed .nav-count,
+.app-shell.sidebar-collapsed .season-card,
+.app-shell.sidebar-collapsed .sidebar-version {
+  display: none;
+}
+
+.app-shell.sidebar-collapsed .sidebar nav {
+  width: 100%;
+  gap: 7px;
+}
+
+.app-shell.sidebar-collapsed .nav-item {
+  justify-content: center;
+  padding: 0;
+}
+
+.app-shell.sidebar-collapsed .nav-item.active:before {
+  left: -9px;
+}
+
+.app-shell.sidebar-collapsed .sidebar-bottom {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.app-shell.sidebar-collapsed .nav-item.muted {
+  width: 43px;
+  padding: 0;
+  display: grid;
+  place-items: center;
+}
+
+.app-shell.sidebar-collapsed .main-area {
+  margin-left: 72px;
+}
+
+.app-shell.sidebar-collapsed .sidebar-toggle {
+  top: 58px;
+  right: 8px;
+}
+
+@media (max-width: 760px) {
+  .sidebar-toggle {
+    top: 10px;
+    right: 18px;
   }
 }
